@@ -1,4 +1,4 @@
-# HutaoBot-XE - Lm Only
+# HutaoBot - Lm Only
 
 ### 👨🏻‍💻 Bot em fase de testes
  ✍️ O bot atualmente está em fase de testes. São vários dias de trabalho para oferecer o melhor do projeto.
