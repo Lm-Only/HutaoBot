@@ -1,0 +1,150 @@
+{InvisibleMessage}┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝐀𝐃𝐌𝐒 【⛩️】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Ban "@"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}AddCmdAdm
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}DelCmdAdm
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}ListaCmdAdm
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Adverter "_@pessoa_"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Rm_adv "_@pessoa_"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Lista_adv "_advertências_"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Ver_adv "@pessoa"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Limpar_Adv
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Aceitar "Solicitações"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Ausente "texto de ausência"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Ativo "volta da ausência"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Anotar "texto"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Anotações
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}rmnota "nota"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Banghost (❗)
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}mute "@pessoa"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}desmute "@pessoa"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Prefixos
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Add_palavra "palavrão"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Rm_palavra "palavrão"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Rg_aviso
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Rm_aviso
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}ListaNegra "55xxxx"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}TirarDaLista "55xxxx"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}ListaBranca <@ / list>
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}RmListaBranca <@>
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Listafake
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Listaban
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Revelar "viewOnce"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Promover "@"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Rebaixar "@"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}sh_num "5521"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Linkgp
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Sorteio
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Sorteio2
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Sortear
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Totag "mensagem"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Hidetag "texto"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Marcar "marca membros"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Marcar2
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}MarcarWa
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Atividades
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}MsgAdm "texto"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Sorteiogold
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Resetvelha
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Regras
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Papof
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Rv_forca 
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Revelar_anagrama 
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Revelar_gartic 
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Revelar_enigma
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Banfake (❗)
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Addcmdgold 
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}Delcmdgold
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐑 【🍸】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎ঔৣ͜͡💧 {prefixo}Gp a/f
+┃╎ঔৣ͜͡💧 {prefixo}Fundo_BemVindo
+┃╎ঔৣ͜͡💧 {prefixo}Fundo_Saiu
+┃╎ঔৣ͜͡💧 {prefixo}TempoCmd _segundos_
+┃╎ঔৣ͜͡💧 {prefixo}Opengp "06:00"
+┃╎ঔৣ͜͡💧 {prefixo}Closegp "22:00"
+┃╎ঔৣ͜͡💧 {prefixo}Time-status
+┃╎ঔৣ͜͡💧 {prefixo}Rm_opengp
+┃╎ঔৣ͜͡💧 {prefixo}Bemvindo
+┃╎ঔৣ͜͡💧 {prefixo}Bemvindo2
+┃╎ঔৣ͜͡💧 {prefixo}infobv
+┃╎ঔৣ͜͡💧 {prefixo}Criartabela
+┃╎ঔৣ͜͡💧 {prefixo}info_adverter 
+┃╎ঔৣ͜͡💧 {prefixo}info_listanegra 
+┃╎ঔৣ͜͡💧 {prefixo}infocontador
+┃╎ঔৣ͜͡💧 {prefixo}Descgp "texto"
+┃╎ঔৣ͜͡💧 {prefixo}Fotogp "marcar image"
+┃╎ঔৣ͜͡💧 {prefixo}Gpinfo 
+┃╎ঔৣ͜͡💧 {prefixo}Nomegp "name"
+┃╎ঔৣ͜͡💧 {prefixo}Legenda_listanegra "texto"
+┃╎ঔৣ͜͡💧 {prefixo}Legenda_video "texto"
+┃╎ঔৣ͜͡💧 {prefixo}Legenda_estrangeiro "texto"
+┃╎ঔৣ͜͡💧 {prefixo}Legenda_documento "texto"
+┃╎ঔৣ͜͡💧 {prefixo}Legenda_video "texto"
+┃╎ঔৣ͜͡💧 {prefixo}Legendabv "texto"
+┃╎ঔৣ͜͡💧 {prefixo}Legendasaiu "texto"
+┃╎ঔৣ͜͡💧 {prefixo}Legendabv2 "texto"
+┃╎ঔৣ͜͡💧 {prefixo}Legendasaiu2 "texto"
+┃╎ঔৣ͜͡💧 {prefixo}resetlink (❗)
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝗔𝗧𝗜𝗩𝗔𝗖̧𝗢̃𝗘𝗦 【🔥】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎ঔৣ͜͡🀄 {prefixo}Status
+┃╎ঔৣ͜͡🀄 {prefixo}Autodl "auto baixar"
+┃╎ঔৣ͜͡🀄 {prefixo}Antilink
+┃╎ঔৣ͜͡🀄 {prefixo}Advlink
+┃╎ঔৣ͜͡🀄 {prefixo}AntiBots
+┃╎ঔৣ͜͡🀄 {prefixo}AntiMarcar
+┃╎ঔৣ͜͡🀄 {prefixo}Antilinkgp 
+┃╎ঔৣ͜͡🀄 {prefixo}Advlinkgp
+┃╎ঔৣ͜͡🀄 {prefixo}Advflood
+┃╎ঔৣ͜͡🀄 {prefixo}Autosticker
+┃╎ঔৣ͜͡🀄 {prefixo}Antifake 
+┃╎ঔৣ͜͡🀄 {prefixo}Anti_notas
+┃╎ঔৣ͜͡🀄 {prefixo}Anticontato
+┃╎ঔৣ͜͡🀄 {prefixo}Antiloc
+┃╎ঔৣ͜͡🀄 {prefixo}LimitCmd
+┃╎ঔৣ͜͡🀄 {prefixo}Antipalavra
+┃╎ঔৣ͜͡🀄 {prefixo}So_adm
+┃╎ঔৣ͜͡🀄 {prefixo}Antiimg
+┃╎ঔৣ͜͡🀄 {prefixo}Antivideo
+┃╎ঔৣ͜͡🀄 {prefixo}Antiaudio
+┃╎ঔৣ͜͡🀄 {prefixo}Antidoc
+┃╎ঔৣ͜͡🀄 {prefixo}Antisticker
+┃╎ঔৣ͜͡🀄 {prefixo}Anticatalogo
+┃╎ঔৣ͜͡🀄 {prefixo}Multiprefix
+┃╎ঔৣ͜͡🀄 {prefixo}Autoban
+┃╎ঔৣ͜͡🀄 {prefixo}Anagrama
+┃╎ঔৣ͜͡🀄 {prefixo}X9viewonce
+┃╎ঔৣ͜͡🀄 {prefixo}Limitexto
+┃╎ঔৣ͜͡🀄 {prefixo}X9adm
+┃╎ঔৣ͜͡🀄 {prefixo}Simih 
+┃╎ঔৣ͜͡🀄 {prefixo}Simih2
+┃╎ঔৣ͜͡🀄 {prefixo}ModoRPG
+┃╎ঔৣ͜͡🀄 {prefixo}Modogamer
+┃╎ঔৣ͜͡🀄 {prefixo}Autoresposta
+┃╎ঔৣ͜͡🀄 {prefixo}+18
+┃╎ঔৣ͜͡🀄 {prefixo}Antipalavra
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+
+✰ۣۜۜ͜͡{NomeDoBot}
+
+✰✰✰✰✰

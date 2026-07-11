@@ -1,0 +1,130 @@
+[
+    {
+        "command": "menu",
+        "info": "Menu é o comando principal onde está a base de tudo e onde você pode ver todos os outros menus através desse comando"
+    },
+    {
+        "command": "google",
+        "info": "O comando google funciona atraves de sua pesquisa onde ele baixa a imagem do site e ao mesmo tempo ele envia varios textos de sites como referencia do conteudo junto com o link abaixo direcionando-se direto ao site"
+    },
+    {
+        "command": "pinterest",
+        "info": "O comando pinterest funciona como um comando de baixar imagem... Você digita o nome de algo e o bot procura a imagem. O pinterest também não encontra so fotos de animes, ele também encontra qualquer outra coisa que não seje muito splicito!"
+    },
+    {
+        "command": "pinmp4",
+        "info": "O comando pinmp4, é o propio pinterest video ou videos do pinterest, onde você copia o link do video e envia com o comando pinmp4 sendo assim o bot irá baixar o video do pinterest. Atenção!! O pinmp4 (Pinterest Video) não baixa videos sem link ou no caso ele irá dar erro."
+    },
+    {
+        "command": "play",
+        "info": "O comando play ou (play de musica) é um comando onde o propio nome diz, ele baixa musicas apenas digitando o nome ou colando o link de algum video do YT, o comando play também é o mais recomendavel e adaptavel para baixar musica, nele contem informaçoes da musica (titulo, tempo, autor, link, descrição e etc). O comando play também, ele direciona direto ao yt atraves do link, e tambem tem o audio onde é Enviado atraves de via anuncio onde bem em cima contem o link do video para que você possa assistir o video dentro do chat do WhatsApp"
+    },
+    {
+        "command": "tiktok",
+        "info": "O comando tiktok é nada mais nada menos que o comando de baixar videos do tiktok, ele conta com downloads sem marca d'agua e full HD sem perder a qualidade. Basicamente o comado tiktok ele pode ser usado com link ou sem link (Essa ideia foi feita pelo Lm) Usando apenas o ID do video sem as barras ( / ) ou o vm.tiktok\n\nHá tambem o tiktok2, esse comando permite baixar video em formato de audio mp3 e também ele functiona sem link e com link usando o mesmo exemplo do tiktok normal.\n\nO tiktok_video no caso é o mais avançado, nele contem informações do video como (autor, titulo e o cover da imagem) \nE o tiktok_audio é a mesma coisa do tiktok_video."
+    },
+    {
+        "command": "imgpralink",
+        "info": "O comando imgpralink ou mais resumidamente (Link da imagem) é um comando onde o bot faz um upload através do telegra.ph que é la onde cria um link da imagem, esse comando é util para guardar apenas o link da imagem, ao invés da propia imagem. Ele tabém é util pra compartilhar como texto para que outro pessoas veja através de sua URL. \n\nHá tambem o videopralink (Link do Video) Ele também é relacioando ao de cima e tambem é muito util."
+    },
+    {
+        "command": "gpt",
+        "info": "O comando #prefixo#gpt é um comando usado para fazer perguntas e pesquisas, nele você pode fazer tipos de perguntas avançadas desde que seje adaptavel para o GPT."
+    },
+    {
+        "command": "menubaixar",
+        "info": "O menubaixar ou Menu de downloads, é o menu exclusivo para você ta baixando videos do you tube, tiktok, Instagram, facebook, Twitter e etc... O menu de baixar também disponibila varias vantagems ao usuario, como informações da midia, lyrics (letra da musica) e Yt search (Buscar video do you tube)."
+    },
+    {
+        "command": "menuadm",
+        "info": "O menuadm ou Menu para ADMS, é o menu exclusivo onde tem somentes comandos para a adiministração do seu grupo, nele contem comandos de Ban, pegar link do grupo, adicionar pessoas a lista negra (auto ban para mais digite a info do auto ban)....\n\nE também conta com personalização do grupo, para você poder personalizar o grupo apenas usando o bot, como por exemplo: Mudar o nome do grupo, Descrição, Foto, Resetar Link e muito mais.\n\nHá tambem o menu de ativações, nele você pode ativar funções para o bot começar a trabalhar no seu grupo usando 1 (para ligar) ou 0 (para desligar), Exemplo: Ativar função antilink (da ban em que mandar qualquer link). Para mais info, digite #prefixo#Menuadm"
+    },
+    {
+        "command": "menugold",
+        "info": "O menugold foi um menu criado pelo proprio Lm, através de uma base de script e ele apenas fez do jeito dele... O menu tem função de você ganhar golds apenas mandando a primeira mensagem, jogando os jogos, apostando e muito mas... Ele também conta com a venda de vip que com uma certa quantia de golds você pode ta adiquirindo."
+    },
+    {
+        "command": "menuvip",
+        "info": "O menu vip é o menu exclusivo para usuarios vips, ele te oferece varios comandos de bom suporte, nele contem puxada de dados, DDD, gera cpf e muito mais... O menu Vip pode ser adiquirido através de compra usando golds (Se caso estiver ativo) Ou quando o propio dono permitir que você se torne um. \n\nPara usuarios vips, Meu dono criou outro menu com o nomde de menu hentai ou #prefixo#Menuhentai"
+    },
+    {
+        "command": "menudono",
+        "info": "Esse menu é somente para que meu dono possa usar!"
+    },
+    {
+        "command": "s",
+        "info": "Esse é o comando mais conhecido como (Sticker) ou STK, ele é a função que o bot transforma imagem, video ou gif em figurinha Webp\nEle também deixa na bio do sticker os dados como: Nome do bot, nome do dono, quem solicitou pra fazer a figu (a pessoa que enviou) e o nome do grupo que é onde que a pessoa enviou o comando \n\nIsso serve para marcar o local e deixar seu nome registrado para dizer que é sua!"
+    },
+    {
+        "command": "toimg",
+        "info": "Esse comando tem como função de transformar STICKER webp em figurinhas, tanto que o nome do comando é toimg ou to image (para imagem)\n\nCaso marque uma figurinha animada, o bot irá enviar apenas uma foto do sticker."
+    },
+    {
+        "command": "hentai",
+        "info": "Esse menu é exclusivo para usuarios vips, nele contem comandos mais \"splicitos\" e caso o Dono não tenha permitido o uso e o mesmo usuario vip quebrar essa regra, ele será removido do vip permanete."
+    },
+    {
+        "command": "menuhentai",
+        "info": "Esse menu é exclusivo para usuarios vips, nele contem comandos mais \"splicitos\" e caso o Dono não tenha permitido o uso e o mesmo usuario vip quebrar essa regra, ele será removido do vip permanete."
+    },
+    {
+        "command": "infocmd",
+        "info": "Este comando permite que você possa ver as informações de como cada comando funciona e pra que eles serve\n\nUse #prefixo#Infocmd e digite algum comando que contenha no bot"
+    },
+    {
+        "command": "listg_global",
+        "info": " Este comando é usado para registrar números que serão banidos em todos os grupos que o bot for adm.\n\nPor exemplo: usando *#prefixo#listg_global* você pode mencionar a mensagem, o \"@ \" dela ou apenas digitando o número assim _5511xxxxxx_ \n\nClaro! Substitua *xxx* pelo número completo do usuario. \n\n• Após feito isso, o número será adicionado para ser filtrado em todos os grupo, caso esse número ente em tal outro grupo, ele sera removido imediatamente.\n\n• Lembrando que *#prefixo#listanegra* é somente em um grupo específico ✨"
+    },
+    {
+        "command": "blockcmdg",
+        "info": "Este comando é para bloquear comandos em todos os lugares ( _incluindo *pv*_ ).\n\n• Se pronuncia como ( *Bloquear comandos globalmente* )\n\n• Somente dono, bot e lideres poderão usar os comandos que estão bloqueados \n\n• Exemplo de uso: *#prefixo#blockcmdg menu* \n\n_Para desbloquear o comando use: *#prefixo#unblockcmdg menu*_"
+    },
+    {
+        "command": "antidelete",
+        "info": "Este comando tem a função de *anti-deletar* mensagens proibidas.\n\nPor exemplo: o comando está incluindo ( antilink, antilinkgp, antiaudio, antiimg e etc)\n\nCaso alguma dessas funções acima estiver ativa e algum usuário findar enviando alguma mensagem proibida, ele será removido. Porém se o *odelete* estiver desligado, a mensagem dele não sera apagada."
+    },
+    {
+        "command": "aluguel",
+        "info": "Este sistema foi criado para aqueles que *trabalham com aluguel em grupos ou usuarios no Whatsapp*\n\nAqui estão algums exemplos de uso desse sistema:\n\n1° - *#prefixo#aluguel* ↴\n Use este comando para ativar o aluguel no grupo\n• Para desativar o sistema, basta executar novamente #prefixo#aluguel\n\nUse *#prefixo#aluguel_global* Para alugar em grupos e privados!!\n\n2° - *#prefixo#rg_aluguel* ↴\n Este é o comando principal para registrar um grupo/Usuário no sistema.\n Lembre-se, para registrar um aluguel use *#prefixo#rg_aluguel |24h*\n\n24 é o tempo, enquanto h são horas.\n\n• Você pode usar D também como dias\nPor exemplo *#prefixo#rg_aluguel |2d*\n\n3° - *#prefixo#ver_aluguel* ↴\n\nEste é usado para ver os status do aluguel \nNele contém o *Nome*, *Status do aluguel*, *Dia que foi alugado* e o *Vencimento*.\n\nO vencimento só será exebido enquanto o status do aluguel estiver *ativo✅*\n\n4° - *#prefixo#lista_aluguel* ↴\n\n Aqui você pode ver a lista de Grupos/Usuários que foram alugados, nele contém a mesma coisa de *#prefixo#ver_aluguel*, porém são exibidos de todos registrados no aluguel\n\n5° - *#prefixo#rn* ↴\n #prefixo#rn ou mais conhecido como *#prefixo#renovar_aluguel*\nComo o propio nome diz, é usado para renovar o aluguel *Vencido*\n\n⚠️ Há alguma regras de uso:\n\nEste comando é usado da seguinte forma: \n\n➥ #prefixo#rn 1|30d\nOu seja ( 1 ) é o número que ele se encontra em *#prefixo#lista_aluguel*\nE 30d são 30 dias de Aluguel renovado\n\nCaso você esteja no grupo/Usuário com o aluguel vencido, basta usar o mesmo comando: *#prefixo#rn |30d* e automaticamente será renovado o aluguel para 30 dias ou a partir da quantidade que você quiser... 💁‍♀️\n\n6° *#prefixo#rm_aluguel* ↴\n \n Este remove o registro de aluguel de um grupo/Usuário, use o inserindo o *ID* do grupo, ou você pode executar somente o comando no grupo/Usuário que você deseja remover o registro!!!\n\n\n⚠️ AVISO EXTRAS ⚠️\n\n Quando um aluguel for vencido, será avisado para algum adm, e automaticamente o bot não irá funcionar no grupo ou no privado alugado.\n\nPara saber mais, use o sistema de aluguel!"
+    },
+    {
+        "command": "advlink",
+        "info": "Este comando é usado para ativar a função de advertência por *link*\n\n• A cada Link que o membro enviar, ele irá tomar 1 advertência!!\n\n• Caso o membro fique com 3/3 advertências, o membro automaticamente será removido do grupo.\n\n\nOBS: As advertências acumuladas não são separadas de *advlinkgp, advflood e advertências manual*."
+    },
+    {
+        "command": "advlinkgp",
+        "info": "Este comando é usado para ativar a função de advertência por *link de grupo*\n\n• A cada Link de grupo que o usuário enviar, ele automaticamente irá tomar 1 advertência!!\n\n• Caso ele fique com 3/3 advertências, ele será removido do grupo imediatamente.\n\nOBS: As advertências não são separadas, ela são somadas de todas as advertências do usuário!!"
+    },
+    {
+        "command": "advflood",
+        "info": "O comando mencionando é usado para adverter usuários que recentemente flodaram o bot\n\n• Caso o haja flood do bot a partir de um usuário, o bot irá adverter automaticamente com 1 advertência!!\n\n• Com 3/3 advertências, o usuário será removido do grupo imediatamente.\n\nOBS: As advertências acumuladas não são separadas, elas irão somar caso o usuário ja tenha tomado advertências!!"
+    },
+    {
+        "command": "substituir",
+        "info": "O Comando `Substituir` é usado para atualizar um arquivo apenas mencionando um documento e especificando o diretório.\n\n • Exemplo ➮ #prefixo#Substituir ./index.js\n> Mencionando um documento válido que seja a nova `index.js` ( exemplo ).\n-\nApós isso, o arquivo ( index.js ) será atualizado pelo documento que você mencionou. ✨\n-\n> MUITO CUIDADO AO INSERIR O DIRETÓRIO, POIS QUALQUER ERRO PODE CAUSAR PROBLEMAS NO SEU BOT. ⚠️"
+    },
+    {
+        "command": "aceitar",
+        "info": "Este Comando é usado para aceitar solicitações de números que desejam entrar no grupo.\n\nEle aceita todas as solicitações de forma eficiente...\n\nAssim economiza bastante tempo ao invés de aceitar 1 por 1.\n\n> Comando apenas para a administração. ✨"
+    },
+    {
+        "command": "modorpg",
+        "info": "Este é um sistema de RPG do bot. Ele é um sistema de golds onde você pode roubar, minerar, se vingar, atacar e se entreter no grupo. ✨\n\nVocê também pode definir um comando para consumir uma certa quantia em golds. ( `#prefixo#AddCmdGold` + _comando/valor_ )\n\nPara deletar basta usar o comando `DelcmdGold` e especificar o comando que deseja tirar.\n\nCaso não saiba quais os comandos, use `#prefixo#MenuRPG` e aparecerá os comandos logo abaixo. ✨\n\n> Este comandos é apenas para a administração. 🌷"
+    },
+    {
+        "command": "adverter",
+        "info": "Este funciona tanto como um sistema quanto algums comandos. \n-\nNele com 3 advertências a pessoa é removida automaticamente do grupo. ⚔️\n-\n1 - `Adverter`: Comando usado para adverter participantes de um grupo. \n\n2 - `Tirar_adv`: Este é usado para subtrair 1 advertências da pessoa.\n\n3 - `RankAdv`: Veja a lista de pessoas que tomaram advertências.\n\n4 - `Limpar_adv`: Comando usado para limpar toda a lista de advertências\n\n < • TAGS EXTRAS • >\n\n Nos comandos `Adverter` e `Tirar_adv` também suportam essas tags:\nAll = para eliminar o registro de advertências da pessoa.\n\n• Modo de uso: `#prefixo#Tirar_adv @xuser|all` ou mencionado a mensagem da pessoa com `#prefixo#Tirar_adv |all`\n> Suporta apenas para o comando `Tirar_adv`\n\n\nVocê também pode adicionar a quantidade de advertências extras no lugar de `all`\n• Exemplo: `#prefixo#Adverter @xuser|2`\n> Essa pessoa ficará com 2 advertências a mais\n> • Suporte apenas para: ( `Adverter` e `Tirar_adv`\n\nUse: o comando `InfoCmd` e veja majs sobre estes comandos abaixo:\n\n[ advlink, advlinkgp e advflood ]\n-"
+    },
+    {
+        "command": "antipv",
+        "info": "Estes são sistemas de anti responder privado.\n\nComo funciona?\n\n1 - `Antipv`: O bot envia uma memsagem de alerta e depois bloqueia a pessoa que invadiu o privado. \n\n2 - `Antipv2`: Envia apenas a mensagem de alerta para o invasor mas não bloqueia.\n\n3 - `Antipv3`: Ignora qualquer tipo de mensagem, útil para quando você usa o bot no número principal."
+    },
+    {
+        "command": "antiarqv",
+        "info": "Sistema destinado a segurança de um grupo. ✨ Trata-se de uma função 85% funcional para evitar que seu grupo seja arquivado. ✅ O sistema permite que apenas pessoas específicas possam \"PROMOVER\" ou \"REBAIXAR\" alguém no grupo. 😼\n\n• Aqui vão 4 comandos para uso:\n> OBS: Apenas donos podem usar os comandos mencionados. ❗\n\n1 - `#prefixo#AntiArqv` ↝ Usado para ativar o modo anti arquivamento. \n\n2 - `#prefixo#DonoGp` ↝ Para adicionar quem pode \"promover\" ou \"rebaixar\" alguém no grupo. \n\n3 - `#prefixo#RmDonoGp` ↝ Usado para remover alguém da lista.\n\n4 - `#prefixo#DonosGp` ↝ Ver a lista de números registrados.\n\n-"
+    },
+    {
+        "command": "listabranca",
+        "info": "Sistema usado para imunizar membros para não serem banidos pelo bot por causa do _Antilink_ ou _Antilinkgp_."
+    }
+]

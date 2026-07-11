@@ -1,0 +1,127 @@
+{InvisibleMessage}┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝐃𝐎𝐍𝐎  【👑】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎୨୧ 🩸 {prefixo}ConfigurarBot "_Como Configurar_"
+┃╎୨୧ 🩸 {prefixo}Db 
+┃╎୨୧ 🩸 {prefixo}Rgfigu <command>
+┃╎୨୧ 🩸 {prefixo}RmFigu <position>
+┃╎୨୧ 🩸 {prefixo}Listafigu
+┃╎୨୧ 🩸 {prefixo}DonoGp <@user>
+┃╎୨୧ 🩸 {prefixo}RmDonoGp <@user>
+┃╎୨୧ 🩸 {prefixo}DonosGp <@user>
+┃╎୨୧ 🩸 {prefixo}Prefixo
+┃╎୨୧ 🩸 {prefixo}Nick_dono
+┃╎୨୧ 🩸 {prefixo}Nome_bot
+┃╎୨୧ 🩸 {prefixo}Nick_bot
+┃╎୨୧ 🩸 {prefixo}Numero_dono 
+┃╎୨୧ 🩸 {prefixo}StatusBot
+┃╎୨୧ 🩸 {prefixo}Temporizador
+┃╎୨୧ 🩸 {prefixo}Zerar_Rank
+┃╎୨୧ 🩸 {prefixo}Limpar_Contador
+┃╎୨୧ 🩸 {prefixo}Tirar_Counter
+┃╎୨୧ 🩸 {prefixo}Add_prefixo
+┃╎୨୧ 🩸 {prefixo}Rm_prefixo
+┃╎୨୧ 🩸 {prefixo}Ausente "_motivo_"
+┃╎୨୧ 🩸 {prefixo}Ativo
+┃╎୨୧ 🩸 {prefixo}Add_f
+┃╎୨୧ 🩸 {prefixo}Rm_f
+┃╎୨୧ 🩸 {prefixo}Pvgp
+┃╎୨୧ 🩸 {prefixo}Listablock
+┃╎୨୧ 🩸 {prefixo}Addgold
+┃╎୨୧ 🩸 {prefixo}Rgold
+┃╎୨୧ 🩸 {prefixo}Addcmdvip
+┃╎୨୧ 🩸 {prefixo}Delcmdvip
+┃╎୨୧ 🩸 {prefixo}Fundo_bemvindo 
+┃╎୨୧ 🩸 {prefixo}Fundo_saiu
+┃╎୨୧ 🩸 {prefixo}Addvip
+┃╎୨୧ 🩸 {prefixo}Delvip
+┃╎୨୧ 🩸 {prefixo}Servip
+┃╎୨୧ 🩸 {prefixo}Rg_aluguel |_tempo_
+┃╎୨୧ 🩸 {prefixo}Ver_aluguel 
+┃╎୨୧ 🩸 {prefixo}Lista_aluguel
+┃╎୨୧ 🩸 {prefixo}Renovar_aluguel |_Tempo_
+┃╎୨୧ 🩸 {prefixo}Rm_aluguel 
+┃╎୨୧ 🩸 {prefixo}Revelar
+┃╎୨୧ 🩸 {prefixo}Block "@"
+┃╎୨୧ 🩸 {prefixo}Unblock "@"
+┃╎୨୧ 🩸 {prefixo}Blockcmd 
+┃╎୨୧ 🩸 {prefixo}Unblockcmd
+┃╎୨୧ 🩸 {prefixo}ListaCmdBlock
+┃╎୨୧ 🩸 {prefixo}Blockcmdg
+┃╎୨୧ 🩸 {prefixo}Unblockcmdg
+┃╎୨୧ 🩸 {prefixo}ListaCmdG
+┃╎୨୧ 🩸 {prefixo}Reiniciar
+┃╎୨୧ 🩸 {prefixo}Seradm
+┃╎୨୧ 🩸 {prefixo}Sermembro
+┃╎୨୧ 🩸 {prefixo}Setbio
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝐀𝐓𝐈𝐕𝐀𝐂𝐎𝐄𝐒  【🌸】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎୨୧ ⚔️ {prefixo}Bangp
+┃╎୨୧ ⚔️ {prefixo}Anti-Arqv
+┃╎୨୧ ⚔️ {prefixo}Antidelete
+┃╎୨୧ ⚔️ {prefixo}Aluguel
+┃╎୨୧ ⚔️ {prefixo}Aluguel_global
+┃╎୨୧ ⚔️ {prefixo}Unbangp
+┃╎୨୧ ⚔️ {prefixo}Multiprefixo
+┃╎୨୧ ⚔️ {prefixo}Console
+┃╎୨୧ ⚔️ {prefixo}Autoread
+┃╎୨୧ ⚔️ {prefixo}Botoff ou boton
+┃╎୨୧ ⚔️ {prefixo}Verificado 
+┃╎୨୧ ⚔️ {prefixo}Anticall
+┃╎୨୧ ⚔️ {prefixo}Antipv1
+┃╎୨୧ ⚔️ {prefixo}Antipv2
+┃╎୨୧ ⚔️ {prefixo}Antipv3
+┃╎୨୧ ⚔️ {prefixo}Limitecaracteres
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝐎𝐔𝐓𝐑𝐎𝐒  【❗】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎୨୧ ♨️ {prefixo}Bcgc
+┃╎୨୧ ♨️ {prefixo}Substituir (❗)
+┃╎୨୧ ♨️ {prefixo}Entrar "_link grupo_"
+┃╎୨୧ ♨️ {prefixo}Add "55xxx"
+┃╎୨୧ ♨️ {prefixo}Reviver "_marcar mensagem_"
+┃╎୨୧ ♨️ {prefixo}ListaNegraG 
+┃╎୨୧ ♨️ {prefixo}TirarDaListaG
+┃╎୨୧ ♨️ {prefixo}ListaBanG
+┃╎୨୧ ♨️ {prefixo}rgtm
+┃╎୨୧ ♨️ {prefixo}Banghost
+┃╎୨୧ ♨️ {prefixo}transmitir
+┃╎୨୧ ♨️ {prefixo}transmitir2 (❗)
+┃╎୨୧ ♨️ {prefixo}rmtm
+┃╎୨୧ ♨️ {prefixo}Listatm
+┃╎୨୧ ♨️ {prefixo}Reviverqr
+┃╎୨୧ ♨️ {prefixo}Listagp
+┃╎୨୧ ♨️ {prefixo}Exit_gp
+┃╎୨୧ ♨️ {prefixo}Sair
+┃╎୨୧ ♨️ {prefixo}Ban "@"
+┃╎୨୧ ♨️ {prefixo}Idgp
+┃╎୨୧ ♨️ {prefixo}Dono1
+┃╎୨୧ ♨️ {prefixo}Dono2
+┃╎୨୧ ♨️ {prefixo}Dono3
+┃╎୨୧ ♨️ {prefixo}Dono4
+┃╎୨୧ ♨️ {prefixo}Dono5
+┃╎୨୧ ♨️ {prefixo}Dono6
+┃╎୨୧ ♨️ {prefixo}Mute
+┃╎୨୧ ♨️ {prefixo}Desmute
+┃╎୨୧ ♨️ {prefixo}Limitec
+┃╎୨୧ ♨️ {prefixo}Configurar_bot
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+
+✰ۣۜۜ͜͡{NomeDoBot}

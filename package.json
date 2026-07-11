@@ -1,25 +1,59 @@
 {
-  "name": "hutaobot-xe",
-  "version": "10.0.0",
-  "description": "Hutao Bot X.Edition",
-  "main": "index.js",
-  "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Lm-Only/HutaoBot-XE.git"
-  },
-  "keywords": [
-    "hutao",
-    "whatsapp-bot",
-    "nodejs"
-  ],
-  "author": "Lm Only",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Lm-Only/HutaoBot-XE/issues"
-  },
-  "homepage": "https://github.com/Lm-Only/HutaoBot-XE#readme",
-  "engines": {
-    "node": ">=20.0.0"
-  }
+    "name": "hutaobot",
+    "version": "10.0.0",
+    "description": "Hutao Bot X.Edition",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node --watch src/test.js",
+        "start": "ulimit -c 0 && bash start.sh",
+        "clean": "bash qrcode-reset.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Lm-Only/HutaoBot.git"
+    },
+    "keywords": [
+        "hutao",
+        "whatsapp-bot",
+        "nodejs"
+    ],
+    "author": "Lm Only",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Lm-Only/HutaoBot/issues"
+    },
+    "homepage": "https://github.com/Lm-Only/HutaoBot#readme",
+    "dependencies": {
+        "@aqul/akinator-api": "^3.0.1",
+        "@google/genai": "^2.8.0",
+        "@vitalets/google-translate-api": "latest",
+        "acrcloud": "latest",
+        "assemblyai": "^4.34.5",
+        "audio-decode": "^2.1.3",
+        "baileys": "^7.0.0-rc13",
+        "cfonts": "latest",
+        "chalk": "^5.6.2",
+        "cheerio": "^1.2.0",
+        "colors": "^1.4.0",
+        "correios-brasil": "^3.0.6",
+        "fake-useragent": "^1.0.1",
+        "fast-yt-search": "github:Lm-Only/fast-yt-search",
+        "file-type": "^22.0.1",
+        "fluent-ffmpeg": "^2.1.3",
+        "form-data": "^4.0.6",
+        "linkifyjs": "^4.3.3",
+        "mime-types": "^3.0.2",
+        "moment-timezone": "^0.6.1",
+        "node-fetch": "^3.3.2",
+        "node-webpmux": "^3.2.1",
+        "performance-now": "^2.1.0",
+        "qrcode-terminal": "^0.12.0",
+        "sharp": "^0.34.5",
+        "undici": "^8.4.1",
+        "yaml": "^2.9.0"
+    },
+    "engines": {
+        "node": ">=22.8.0"
+    }
 }

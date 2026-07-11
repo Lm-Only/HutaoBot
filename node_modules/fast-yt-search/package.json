@@ -1,0 +1,31 @@
+{
+  "name": "fast-yt-search",
+  "version": "1.0.0",
+  "description": "scraper rápido e otimizado para nodeJS",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lm-Only/fast-yt-search.git"
+  },
+  "keywords": [
+    "fast",
+    "fast-yt-search",
+    "yt-search"
+  ],
+  "author": "Lm Only",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lm-Only/fast-yt-search/issues"
+  },
+  "homepage": "https://github.com/Lm-Only/fast-yt-search#readme",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "undici": "^7.16.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

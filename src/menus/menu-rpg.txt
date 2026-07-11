@@ -1,0 +1,59 @@
+{InvisibleMessage}ঔৣ͜͡{TimeToday} @{sender} Seja bem vindo ao  menu de comandos do novo sistema de rpg da bot!
+
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝐌𝐄𝐍𝐔 𝐑𝐏𝐆 【💰】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎୨୧ 💸 {prefixo}Gold  ( _carteira_ )
+┃╎୨୧ 💸 {prefixo}Doargold  ( _doar golds_ )
+┃╎୨୧ 💸 {prefixo}Vergold (_marcar user_)
+┃╎୨୧ 💸 {prefixo}Minerar   ( _mineração_ )
+┃╎୨୧ 💸 {prefixo}Forca (_solo/global_)
+┃╎୨୧ 💸 {prefixo}Roubar  ( _roubar usuarios_ )
+┃╎୨୧ 💸 {prefixo}Loja  ( _loja de items_ )
+┃╎୨୧ 💸 {prefixo}Comprar picareta  ( _obter uma picareta_ )
+┃╎୨୧ 💸 {prefixo}Comprar escudo  ( _mais defesa_ )
+┃╎୨୧ 💸 {prefixo}Comprar cachaça  ( _mais chances_ )
+┃╎୨୧ 💸 {prefixo}Comprar vingançagold  ( _recuperar golds_ )
+┃╎୨୧ 💸 {prefixo}Cassino  ( _tentar a sorte_ )
+┃╎୨୧ 💸 {prefixo}Rankgold  ( _ranking dos mais ricos_ )
+┃╎୨୧ 💸 {prefixo}Vingar  ( _vingar assaltantes_ )
+┃╎୨୧ 💸 {prefixo}Embebedar  ( _Embriagar usuarios_ )
+┃╎୨୧ 💸 {prefixo}Quiz  ( _quiz de numeros_ )
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝐀𝐃𝐌𝐒 【💎】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎ ☆҈͜͡💸 {prefixo}Sorteiogold "_quantidade_"
+┃╎ ☆҈͜͡💸 {prefixo}Addcmdgold "_command/valor_"
+┃╎ ☆҈͜͡💸 {prefixo}Delcmdgold "_command_"
+┃╎ ☆҈͜͡💸 {prefixo}Zerar_Rankgold
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝐃𝐎𝐍𝐎 【💳】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎ ☆҈͜͡💸 {prefixo}Addgold "_@user/quantidade_"
+┃╎ ☆҈͜͡💸 {prefixo}Rmgold "_@user/quantidade_"
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+{GOLDS_CMD}
+OBS: 
+❒᭄ Duvidas: {prefixo}infocmd systemgold
+❒᭄ Problemas: {NumeroDoDono}
+
+✰ۣۜۜ͜͡{NomeDoBot}
+✰ۣۜۜ͜͡Criador: {NickDono}
+
+✰✰✰✰✰

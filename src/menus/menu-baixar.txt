@@ -1,0 +1,36 @@
+{InvisibleMessage}┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┣⋆⃟ۣۜ᭪➣ 𖡦 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐒 【🥂】
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎୨୧ ✨ {prefixo}play "txt/url"
+┃╎୨୧ ✨ {prefixo}playvideo "txt/url"
+┃╎୨୧ ✨ {prefixo}playdoc "txt/url" 
+┃╎୨୧ ✨ {prefixo}play_audio "txt/url"
+┃╎୨୧ ✨ {prefixo}play_video "txt/url"
+┃╎୨୧ ✨ {prefixo}ytbuscar "txt/url"
+┃╎୨୧ ✨ {prefixo}ytmp4 "url"
+┃╎୨୧ ✨ {prefixo}ytmp3 "url"
+┃╎୨୧ ✨ {prefixo}Pinterest "txt"
+┃╎୨୧ ✨ {prefixo}Pinterest_video "url"
+┃╎୨୧ ✨ {prefixo}lyrics "txt"
+┃╎୨୧ ✨ {prefixo}Shazam "marcar audio"
+┃╎୨୧ ✨ {prefixo}tiktok "url/id"
+┃╎୨୧ ✨ {prefixo}tiktok2 "url/id"
+┃╎୨୧ ✨ {prefixo}facebook_video "url"
+┃╎୨୧ ✨ {prefixo}facebook_audio "url"
+┃╎୨୧ ✨ {prefixo}deezer "txt"
+┃╎୨୧ ✨ {prefixo}instagram "url"
+┃╎୨୧ ✨ {prefixo}insta2 "url"
+┃╎୨୧ ✨ {prefixo}insta_video "url"
+┃╎୨୧ ✨ {prefixo}insta_audio "url"
+┃╎୨୧ ✨ {prefixo}gitclone "url"
+┃╎୨୧ ✨ {prefixo}Imgpralink "marcar image"
+┃╎୨୧ ✨ {prefixo}Videopralink "marcar video"
+┃╰━━─ ≪ •❈• ≫ ─━━╯
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛‎
+
+✰ۣۜۜ͜͡{NomeDoBot}
+
+✰✰✰✰✰

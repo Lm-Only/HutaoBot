@@ -1,0 +1,184 @@
+┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
+┃           ୨୧ *𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒘𝑻* ୨୧
+┗╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┛
+╎
+‎┏╾ׁ═╼･ﾟ♡ﾟ･｡🎀｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┃╭╾ׁ═╼〔 • 💌 • 〕╾ׁ═╼╮
+┃╎✧･ﾟ: *✧･ﾟ:* :･ﾟ✧
+┃╎  *Oiê @{sender} {TimeToday}*
+┃╎ -
+┃╎ ୨୧ *Número*: {sender}
+┃╎ ୨୧ *Bot*: {NomeDoBot}
+┃╎ ୨୧ *Dono*: {NickDono}
+┃╎ ୨୧ *Usuario*: {pushname}
+┃╎ ୨୧ *Premium*: {isPremium}
+┃╎ ୨୧ *Hora*: {time}
+┃╎ -
+┃╎✧･ﾟ: *✧･ﾟ:* :･ﾟ✧
+┃╰╾ׁ═╼〔 • 💌 • 〕╾ׁ═╼╯
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🎀｡･ﾟ♡ﾟ･╾ᷓ═╼┛‎
+{InvisibleMessage}╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡🥂｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┣━〔 • 𝑴𝒆𝒏𝒖𝒔 • 🥂 〕
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🥂｡･ﾟ♡ﾟ･╾ᷓ═╼┛
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡🍸｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┃╭╾ׁ═╼〔 • ✿ • 〕╾ׁ═╼╮
+┃╎୨୧ 🍸 {prefixo}Add_Parceria 
+┃╎୨୧ 🍸 {prefixo}ConfigurarBot "_Como Configurar_"
+┃╎୨୧ 🍸 {prefixo}MenuBaixar
+┃╎୨୧ 🍸 {prefixo}MenuFig
+┃╎୨୧ 🍸 {prefixo}MenuLogos
+┃╎୨୧ 🍸 {prefixo}MenuVip
+┃╎୨୧ 🍸 {prefixo}MenuGame
+┃╎୨୧ 🍸 {prefixo}MenuAnime
+┃╎୨୧ 🍸 {prefixo}MenuDono 
+┃╎୨୧ 🍸 {prefixo}MenuAdm
+┃╎୨୧ 🍸 {prefixo}MenuRpg
+┃╰╾ׁ═╼〔 • ✿ • 〕╾ׁ═╼╯
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🍸｡･ﾟ♡ﾟ･╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡🌸｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┣━〔 • 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒄̧𝒐̃𝒆𝒔 • 🌸 〕
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🌸｡･ﾟ♡ﾟ･╾ᷓ═╼┛
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡🌷｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┃╭╾ׁ═╼〔 • 🎀 • 〕╾ׁ═╼╮
+┃╎✧͜͡ 🌷 {prefixo}infocmd "_comando_"
+┃╎✧͜͡ 🌷 {prefixo}listacmd
+┃╎✧͜͡ 🌷 {prefixo}infobot
+┃╎✧͜͡ 🌷 {prefixo}Idiomas
+┃╎✧͜͡ 🌷 {prefixo}infobv
+┃╎✧͜͡ 🌷 {prefixo}infodono
+┃╎✧͜͡ 🌷 {prefixo}InfoClosegp
+┃╎✧͜͡ 🌷 {prefixo}infoAdv
+┃╎✧͜͡ 🌷 {prefixo}info_listanegra 
+┃╎✧͜͡ 🌷 {prefixo}infocontador
+┃╎✧͜͡ 🌷 {prefixo}ping
+┃╰╾ׁ═╼〔 • 🎀 • 〕╾ׁ═╼╯
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🌷｡･ﾟ♡ﾟ･╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡🔍｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┣━〔 • 𝑷𝒆𝒔𝒒𝒖𝒊𝒔𝒂𝒔 • 🔍 〕
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🔍｡･ﾟ♡ﾟ･╾ᷓ═╼┛
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡🔮｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┃╭╾ׁ═╼〔 • ✧ • 〕╾ׁ═╼╮
+┃╎୨୧ 🔮 {prefixo}Gemini "pesquisa"
+┃╎୨୧ 🔮 {prefixo}Gpt "pesquisa"
+┃╎୨୧ 🔮 {prefixo}YtStalk _@usuario_
+┃╎୨୧ 🔮 {prefixo}Tiktok_Stalker _@usuario_
+┃╎୨୧ 🔮 {prefixo}AnimeInfo "Nome"
+┃╎୨୧ 🔮 {prefixo}Piterest "titulo"
+┃╎୨୧ 🔮 {prefixo}Letra "Lyrics da música"
+┃╎୨୧ 🔮 {prefixo}Dicionário "palavra"
+┃╎୨୧ 🔮 {prefixo}CriarImg 
+┃╎୨୧ 🔮 {prefixo}Npm
+┃╎୨୧ 🔮 {prefixo}BingImg
+┃╎୨୧ 🔮 {prefixo}noticias
+┃╎୨୧ 🔮 {prefixo}Terra
+┃╎୨୧ 🔮 {prefixo}buscar "txt"
+┃╎୨୧ 🔮 {prefixo}amazon "txt"
+┃╎୨୧ 🔮 {prefixo}noticiaesp "txt"
+┃╎୨୧ 🔮 {prefixo}wikipedia "txt"
+┃╎୨୧ 🔮 {prefixo}Book "txt"
+┃╎୨୧ 🔮 {prefixo}clima "bahia"
+┃╎୨୧ 🔮 {prefixo}filme "movie"
+┃╎୨୧ 🔮 {prefixo}serie "txt"
+┃╎୨୧ 🔮 {prefixo}instauser "Alok"
+┃╰╾ׁ═╼〔 • ✧ • 〕╾ׁ═╼╯
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🔮｡･ﾟ♡ﾟ･╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡📽｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┣━〔 • 𝑽í𝒅𝒆𝒐𝒔 • 🎬 〕
+┗╾ׁ═╼･ﾟ♡ﾟ･｡📽｡･ﾟ♡ﾟ･╾ᷓ═╼┛
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡🎀｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┃╭╾ׁ═╼〔 • 🍿 • 〕╾ׁ═╼╮
+┃╎୨୧ 🎬 {prefixo}tomp3
+┃╎୨୧ 🎬 {prefixo}Videocontrario 
+┃╎୨୧ 🎬 {prefixo}videolento 
+┃╎୨୧ 🎬 {prefixo}videorapido 
+┃╰╾ׁ═╼〔 • 🍿 • 〕╾ׁ═╼╯
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🎀｡･ﾟ♡ﾟ･╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡🎶｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┣━〔 • 𝓐́𝓾𝓭𝓲𝓸𝓼 • 🔊 〕
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🎶｡･ﾟ♡ﾟ･╾ᷓ═╼┛
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡🎀｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┃╭╾ׁ═╼〔 • ✧ • 〕╾ׁ═╼╮
+┃╎୨୧ ⚘ {prefixo}Grave 
+┃╎୨୧ ⚘ {prefixo}Grave2 
+┃╎୨୧ ⚘ {prefixo}Esquilo 
+┃╎୨୧ ⚘ {prefixo}Estourar 
+┃╎୨୧ ⚘ {prefixo}estourar2 
+┃╎୨୧ ⚘ {prefixo}Bass 
+┃╎୨୧ ⚘ {prefixo}Bass2 
+┃╎୨୧ ⚘ {prefixo}Bass3 
+┃╎୨୧ ⚘ {prefixo}Vozmenino      
+┃╎୨୧ ⚘ {prefixo}reverse 
+┃╎୨୧ ⚘ {prefixo}fat
+┃╎୨୧ ⚘ {prefixo}alto
+┃╎୨୧ ⚘ {prefixo}deep 
+┃╎୨୧ ⚘ {prefixo}deep1 
+┃╎୨୧ ⚘ {prefixo}speedup
+┃╎୨୧ ⚘ {prefixo}Audiolento 
+┃╰╾ׁ═╼〔 • ✧ • 〕╾ׁ═╼╯
+┗╾ׁ═╼･ﾟ♡ﾟ･｡🎀｡･ﾟ♡ﾟ･╾ᷓ═╼┛‎
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡✨｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┣━〔 • 𝑴𝒆𝒎𝒃𝒆𝒓𝒔 • 💖 〕
+┗╾ׁ═╼･ﾟ♡ﾟ･｡✨｡･ﾟ♡ﾟ･╾ᷓ═╼┛
+╎
+┏╾ׁ═╼･ﾟ♡ﾟ･｡💎｡･ﾟ♡ﾟ･╾ᷓ═╼┓
+┃╭╾ׁ═╼〔 • 🌌 • 〕╾ׁ═╼╮
+┃╎୨୧ 🧉 {prefixo}Perfil "seu perfil"
+┃╎୨୧ 🧉 {prefixo}HD "marcar imagem"
+┃╎୨୧ 🧉 {prefixo}Simi "Fale algo"
+┃╎୨୧ 🧉 {prefixo}Printsite "_Url_"
+┃╎୨୧ 🧉 {prefixo}Totext "marcar audio / video"
+┃╎୨୧ 🧉 {prefixo}Traduzir _pt/hi_
+┃╎୨୧ 🧉 {prefixo}Wame "_texto ou não_"
+┃╎୨୧ 🧉 {prefixo}playstore "_nome do apk_"
+┃╎୨୧ 🧉 {prefixo}Apr
+┃╎୨୧ 🧉 {prefixo}Digt
+┃╎୨୧ 🧉 {prefixo}Celular "iphone 13"
+┃╎୨୧ 🧉 {prefixo}Signo "virgem"
+┃╎୨୧ 🧉 {prefixo}tagme
+┃╎୨୧ 🧉 {prefixo}Cantadas
+┃╎୨୧ 🧉 {prefixo}Fatos
+┃╎୨୧ 🧉 {prefixo}Moedas
+┃╎୨୧ 🧉 {prefixo}status
+┃╎୨୧ 🧉 {prefixo}Contar "texto/marcar"
+┃╎୨୧ 🧉 {prefixo}Tabela
+┃╎୨୧ 🧉 {prefixo}Ptvmsg "video"
+┃╎୨୧ 🧉 {prefixo}Tabelagp
+┃╎୨୧ 🧉 {prefixo}Afk "texto"
+┃╎୨୧ 🧉 {prefixo}Suicidio (❗)
+┃╎୨୧ 🧉 {prefixo}Falar pt "txt"
+┃╎୨୧ 🧉 {prefixo}Nick "Seu nick"
+┃╎୨୧ 🧉 {prefixo}Conselho
+┃╎୨୧ 🧉 {prefixo}Rankativo
+┃╎୨୧ 🧉 {prefixo}Rankinativo
+┃╎୨୧ 🧉 {prefixo}Me
+┃╎୨୧ 🧉 {prefixo}check "@usuario"
+┃╎୨୧ 🧉 {prefixo}admins
+┃╎୨୧ 🧉 {prefixo}bug "texto"
+┃╎୨୧ 🧉 {prefixo}avalie "1/10"
+┃╎୨୧ 🧉 {prefixo}sugestão "texto"
+┃╎୨୧ 🧉 {prefixo}convite "url"
+┃╎୨୧ 🧉 {prefixo}listavip
+┃╎୨୧ 🧉 {prefixo}Emoji "🥺+🥵"
+┃╎୨୧ 🧉 {prefixo}repetir "🗿"
+┃╎୨୧ 🧉 {prefixo}Criador
+┃╎୨୧ 🧉 {prefixo}sn "Pergunta"
+┃╎୨୧ 🧉 {prefixo}Calcular "2+2"
+┃╎୨୧ 🧉 {prefixo}dono
+┃╎୨୧ 🧉 {prefixo}alugar
+┃╰╾ׁ═╼〔 • 🌌 • 〕╾ׁ═╼╯
+┗╾ׁ═╼･ﾟ♡ﾟ･｡💎｡･ﾟ♡ﾟ･╾ᷓ═╼┛‎
+
+✰ۣۜۜ͜͡{NomeDoBot}
+
+✰✰✰✰✰
