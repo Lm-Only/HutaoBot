@@ -1,8 +1,7 @@
 # HutaoBot-XE - Lm Only
 
-### 👨🏻‍💻 Bot em desenvolvimento
-
- ✍️ O bot atualmente está em fase de desenvolvimento, testes e reescrita do código para ESM. São vários dias de trabalho para oferecer o melhor do projeto.
+### 👨🏻‍💻 Bot em fase de testes
+ ✍️ O bot atualmente está em fase de testes. São vários dias de trabalho para oferecer o melhor do projeto.
 Em 18 de outubro as principais partes concluídas do bot foram:
  
 - **Conexão**: ✅️
@@ -12,16 +11,10 @@ Em 18 de outubro as principais partes concluídas do bot foram:
 - **Organização de novas pastas**: ✅️
 - **Primeiros comandos de testes**: ✅️
 
-😥 Porém mesmo com tudo isso, ainda não foi concluído nem 30% do projeto.
-👨🏻‍💻 São milhares de linhas de códigos envolvidas.
- 
 ### ⚠️ Prévias do projeto
 
-- **Duração até ser concluído**: 1/2 meses
-- **Data prevista**: dia 25 de novembro de 2025.
 - **Tipo de código**: ESM - EcmaScript
 - **Versão do bot**: 10.0.0
-- **Conexto principal**: X Edition
 - **Descrição**: Dar possibilidade ao usuário editar o bot.
  
 ###  💎 Novidades futuras
@@ -29,16 +22,12 @@ Em 18 de outubro as principais partes concluídas do bot foram:
 | Sistema          | Função
 | :----------------- | :------------------------- | 
 | 👑 Comandos personalizados           | Sistema avançado para criar próprios comandos. 
-| 😍 Ratrear encomendas              | Rastreio de encomendas em tempo real pelo correios.
 | 🌌 Anti status mencionar         | Anti menção de status em grupos
 | 💡 Comandos sem prefixo         | Comando apenas por letras
 | 💎 IA personalizável          | Você pode personalizar a IA para se comportar do jeito que você quiser. Além disso pode guardar dados de conversas temporário.
 | 💖 Mensagem personalizada        | Você pode personalizar a aparência de mensagens do bot do jeito que quiser.
 | 👨🏻‍💻 Códigos abertos         | Partes de códigos estarão disponíveis.
-| 🧞‍♂️ Akinator        | GAME: Akinator com sessões individuais para cada membro.
-| 🎙 Auto transcrever        | Transmissão automática de áudios enviados em um grupo.
 | 🌷 Design novo        | Visul novo para o bot (menu, mensagens e logos)
-| 🌟 Novas brincadeiras        | Mais brincadeiras para o bot.
 | ✍️ +Editar mensagens      | Mais possibilidades de editar mensagens.
 
 ### ⚠️ Requisitos
@@ -65,8 +54,8 @@ Atualmente a versão V9.5 ainda será mantida com otimizações  e algumas corre
 
 ## Contributors
 
-* [__Canal__](https://whatsapp.com/channel/0029VbBDYlKDuMRm551Z5e0s)
-* [__Grupo__](https://chat.whatsapp.com/IoUPlcsAdP98a7VrW3jBQp)
+* [__Canal__](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
+* [__Grupo__](https://chat.whatsapp.com/CYgxX2s9FiyBY3MkKqsnJR)
 
 ## License
 
