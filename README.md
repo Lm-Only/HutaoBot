@@ -1,64 +1,153 @@
-# HutaoBot - Lm Only
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=C60404&center=falso&vCenter=falso&lines=𝑯𝒖𝒕𝒂𝒐𝑩𝒐𝒕-𝑴𝑫+✿+V9.5.5✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;✰✰✰✰✰">
 
-### 👨🏻‍💻 Bot em fase de testes
- ✍️ O bot atualmente está em fase de testes. São vários dias de trabalho para oferecer o melhor do projeto.
-Em 18 de outubro as principais partes concluídas do bot foram:
+<h1 align="center">
+<p>
+<img src= "https://i.imgur.com/R5zdleM.jpeg" alt="HUTAO-BOT V10.0.0✓" width="720">
+</p>
+
+<p align="center">
+<a href="#"><img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-blue?&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+<img title="Autor" src="https://img.shields.io/badge/Autor-LmOnly-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Versão" src="https://img.shields.io/badge/Versão-10.0.0-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/559284828701?text=/ajuda">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+   <a href="https://yuta-apis.xyz>">
+    <img src="https://img.shields.io/badge/API-YUTA-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@hutaobotoficial">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</a>
+</p>
+
+# ATENÇÃO!!
+> [!IMPORTANT]
+> **Para acessar o bot, é necessário adquirir o arquivo. Por apenas R$35,00 reais você recebe uma chave de acesso, que permite utilização ilimitada do bot. [__Fale Conosco__](https://wa.me/559284828701?text=Comprar%20HutaoBot-MD%20V10.0.0)**
+
+> **Ao Comprar o Bot de Instalar, você deve assitir o Tutorial de Como usar a [__API do Yuta__](yuta-apis.xyz/)**
+
+## INICIALIZAÇÃO 🔮
+
+ * [__Iniciar por Hospedagem__](https://github.com/Lm-Only/HutaoBot-MD?tab=readme-ov-file#iniciar-por-hospedagem-)
+ * [__Iniciar por Termux__](https://github.com/Lm-Only/HutaoBot-MD?tab=readme-ov-file#iniciar-pelo-termux-)
  
-- **Conexão**: ✅️
-- **Instalação de módulos**: ✅️
-- **Sistema de chave e atualização automática**: ✅️
-- **Funcionalidades úteis**: ✅️
-- **Organização de novas pastas**: ✅️
-- **Primeiros comandos de testes**: ✅️
+------------------
 
-### ⚠️ Prévias do projeto
+## TUTORIAIS - YouTube 🌟
 
-- **Tipo de código**: ESM - EcmaScript
-- **Versão do bot**: 10.0.0
-- **Descrição**: Dar possibilidade ao usuário editar o bot.
- 
-###  💎 Novidades futuras
+ * [__Tutorial de como instalar__](https://youtu.be/UEayN52fsco)
+ * [__Tutorial de como atualizar__](https://youtu.be/7B5EkX5PFFk)
+ * [__Tutorial de como de Como usar a API do Yuta__](https://www.youtube.com/watch?v=RiWTirsWTeg)
+ * [__Tutorial de como Editar o Auto Resposta__](https://youtu.be/VjOEOy4mrUc)
+> Veja mais em nosso canal do YouTube [__Hutao Bot Oficial__](https://youtube.com/@hutaobotoficial)
+------------------
 
-| Sistema          | Função
-| :----------------- | :------------------------- | 
-| 👑 Comandos personalizados           | Sistema avançado para criar próprios comandos. 
-| 🌌 Anti status mencionar         | Anti menção de status em grupos
-| 💡 Comandos sem prefixo         | Comando apenas por letras
-| 💎 IA personalizável          | Você pode personalizar a IA para se comportar do jeito que você quiser. Além disso pode guardar dados de conversas temporário.
-| 💖 Mensagem personalizada        | Você pode personalizar a aparência de mensagens do bot do jeito que quiser.
-| 👨🏻‍💻 Códigos abertos         | Partes de códigos estarão disponíveis.
-| 🌷 Design novo        | Visul novo para o bot (menu, mensagens e logos)
-| ✍️ +Editar mensagens      | Mais possibilidades de editar mensagens.
+## INICIAR POR HOSPEDAGEM 💎
 
-### ⚠️ Requisitos
+**Você precisa ter um login na sua Hospedagem e um Servidor Criado**
 
-- **Nodejs**: Versão >= 20.0.0
-- **CPU**: acima de 50%
-- **Memória RAM**: acima de 500Mb
-- **Armazenamento**: acima de 500Mb
-- **Motivo**: A HutaoBot deixa de mão a otimização para entrar em fase de alto consumo e verificações pesadas. 
+## Passos simples: ✨️
 
-Atualmente a versão V9.5 ainda será mantida com otimizações  e algumas correções leves (ou seja versão lite). A versão ainda será vendida juntamente com a V10.0.0
+> Dependendo da sua Hospedagem, pode conter Diferenças entre Parâmetros, Nomes e Botões.
+------------------
+1 - PASSO: 💖
+> Baixe o arquivo ZIP do bot
+> [Baixe aqui](https://github.com/Lm-Only/HutaoBot/archive/refs/heads/main.zip)
+------------------
+2 - PASSO: 💖
+> • Entre no seu servidor na hospedagem, procure a opção de **upload** e procure pelo arquivo baixado. (geralmente no celular fica na pasta **downloads** com o nome **HutaoBot-MD-main.zip**).
+------------------
+3 - PASSO: 💖
+> • Após selecionar o arquivo, é necessário extrair corretamente. (na maioria das vezes tem que mover o todos os arquivos de dentro da pasta HutaoBot-MD-main pra fora após extrair)
+------------------
+4 - PASSO: 💖
+> • Inicie o servidor e espere o bot pedir a key caso ainda não tenha. (você deve comprar a key e colar quando pedir)
+------------------
 
-# 💸 Preços a serem emitidos!
 
-> [!CAUTION]
-> 💎 Mesmo com tudo isso, o projeto não será o mesmo da HutaoBot-MD V9.5, onde você só precisava atualizar com "npm start up". Será um projeto totalmente diferente, não será possível adaptar o bot manualmente com o antigo.
-> 
-> ✨️ Em resumo, com todas essas funcionalidades e outras que não foram mencionadas, podem gerar **custos acima do valor atual**, são funções mais avançadas que dão outras possibilidades ao usuário e ao mundo dos bots.
+## INICIAR PELO TERMUX 🌷
 
-## HutaoBot-MD V9.5.0 - Suporte
+**Caso Não tenha o termux instalado**
+[Instale aqui](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file).
 
-* [__Fale Conosco__](https://wa.me/559181377883?text=olá%20suporte%20da%20HutaoBot-MD)
+## Executando comandos básicos: ✨
 
+**Após instalar o apk, execute os seguintes comandos abaixo:**
+
+> Copie e cole apenas 1 comando por vez, e pressione ENTER ou Pular Linha no seu teclado.
+> Espere o comando acabar para iniciar outro.
+------------------
+1 - COMANDO: 🌸
+````bash
+termux-setup-storage
+````
+> Permitir que o termux acesse seus arquivos
+------------------
+2 - COMANDO: 🌸
+````bash
+pkg upgrade -y && pkg update -y
+````
+> **Atenção**!!!
+> Se aparecer "(Y/I/N/O/D/Z) [default=N] ?", use Y e após Enter ou pular linha no seu teclado.
+------------------
+3 - COMANDO: 🌸
+````bash
+pkg install -y ffmpeg nodejs-lts wget tesseract git
+````
+4 - COMANDO: 🌸
+````bash
+cd /sdcard && git clone https://github.com/Lm-Only/HutaoBot
+````
+> Baixar os arquivos do bot.
+------------------
+5 - COMANDO: 🌸
+````bash
+cd /sdcard/HutaoBot && npm start
+````
+> Use-o para toda vez que for ligar o bot!
+> Muita atenção na hora de colar a key se for primeira inicialização.
+------------------
+COMANDO ADICIONAL: 🌸
+````bash
+cd /sdcard/HutaoBot && npm start up
+````
+> **Atualizar automaticamente**:
+> Use esse comando quando houver atualizações disponíveis.
+------------------
+
+## Atenção 
+
+- Use o bot moderadamente
+- Evite compartilhar o projeto 
+- Proibido venda de terceiros
+> Estaremos sempre de olho em qualquer ação inapropriada
 
 ## Contributors
 
+- **Update**: Canal onde será postado updates da HutaoBot-MD. ✨
+
 * [__Canal__](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
-* [__Grupo__](https://chat.whatsapp.com/CYgxX2s9FiyBY3MkKqsnJR)
+
+## Sistemas mais avaliados 
+
+| Sistema          | Função
+| :----------------- | :------------------------- | 
+| Opengp & Closegp            | Abre e Fecha grupos automaticamente
+| Parceria               | Divulgações por limite diário
+| Comandos por figurinhas           | Sem precisar digitar nada
+| Aluguel          | Sistema super otimizado
+| Bem vindo           | Podes definir uma imagem de fundo
+| Auto Baixar           | Baixa vídeos do Instagram e Tiktok automaticamente
+| Anti flood com advertências          | sistema automático de advertências
 
 ## License
 
 Licensed under [MIT](./LICENSE).
 Todos os direitos reservados
-
