@@ -29,7 +29,11 @@
 
 # ATENÇÃO!!
 > [!IMPORTANT]
-> **Para acessar o bot, é necessário adquirir o arquivo. Por apenas R$35,00 reais você recebe uma chave de acesso, que permite utilização ilimitada do bot. [__Fale Conosco__](https://wa.me/559284828701?text=Comprar%20HutaoBot-MD%20V10.0.0)**
+> **Para acessar o bot, é necessário adquirir o arquivo. Por apenas R$35,00 reais você recebe uma chave de acesso, que permite utilização do bot.
+> Após isso você fica pagando 2.50R$ por mês. [__Fale Conosco__](https://wa.me/559284828701?text=Comprar%20HutaoBot-MD%20V10.0.0)**
+
+> O pagamento mensal é para que o bot continue recebendo atualizações novas.
+> Qualquer problema, será resolvido imediatamente.
 
 > **Ao Comprar o Bot de Instalar, você deve assitir o Tutorial de Como usar a [__API do Yuta__](yuta-apis.xyz/)**
 
