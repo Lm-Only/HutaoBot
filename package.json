@@ -1,7 +1,7 @@
 {
-    "name": "hutaobot",
-    "version": "10.0.0",
-    "description": "Hutao Bot X.Edition",
+    "name": "DHANI-ND",
+    "version": "1.0.0",
+    "description": "DHANIx POWER FULL BOT",
     "main": "index.js",
     "type": "module",
     "scripts": {
@@ -14,11 +14,11 @@
         "url": "git+https://github.com/Lm-Only/HutaoBot.git"
     },
     "keywords": [
-        "hutao",
+        "dhani",
         "whatsapp-bot",
         "nodejs"
     ],
-    "author": "Lm Only",
+    "author": "DHANITHA CHIRAN ",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/Lm-Only/HutaoBot/issues"
