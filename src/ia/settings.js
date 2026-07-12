@@ -20,5 +20,5 @@ export const DANGEROUS_COMMANDS = [
 export const DEFAULT_IA_CONFIG = {
     name: 'HutaoBot-MD',
     prefixName: 'hutao',
-    outputResponse: true
+    outputResponse: false
 };
