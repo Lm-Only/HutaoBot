@@ -22,9 +22,10 @@ import { DEFAULT_IA_CONFIG } from "../ia/settings.js";
  */
 export const PASTAS = [
     'adms',
-    'membros',
     'donos',
-    'global'
+    'exemplo',
+    'global',
+    'membros'
 ];
 
 
