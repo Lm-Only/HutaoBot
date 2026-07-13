@@ -24,7 +24,7 @@
 ╎
 ┏╾ׁ═╼･ﾟ♡ﾟ･｡🍸｡･ﾟ♡ﾟ･╾ᷓ═╼┓
 ┃╭╾ׁ═╼〔 • ✿ • 〕╾ׁ═╼╮
-┃╎୨୧ 🍸 {prefixo}Add_Parceria 
+┃╎୨୧ 🍸 {prefixo}ModoIA
 ┃╎୨୧ 🍸 {prefixo}ConfigurarBot "_Como Configurar_"
 ┃╎୨୧ 🍸 {prefixo}MenuBaixar
 ┃╎୨୧ 🍸 {prefixo}MenuFig
@@ -44,6 +44,9 @@
 ╎
 ┏╾ׁ═╼･ﾟ♡ﾟ･｡🌷｡･ﾟ♡ﾟ･╾ᷓ═╼┓
 ┃╭╾ׁ═╼〔 • 🎀 • 〕╾ׁ═╼╮
+┃╎✧͜͡ 🌷 {prefixo}NoPrefix
+┃╎✧͜͡ 🌷 {prefixo}RgCmd
+┃╎✧͜͡ 🌷 {prefixo}DelCmd
 ┃╎✧͜͡ 🌷 {prefixo}infocmd "_comando_"
 ┃╎✧͜͡ 🌷 {prefixo}listacmd
 ┃╎✧͜͡ 🌷 {prefixo}infobot
