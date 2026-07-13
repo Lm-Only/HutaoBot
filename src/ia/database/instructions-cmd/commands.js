@@ -10,8 +10,8 @@
 
 const COMMANDS_IA = [
     {
-        contexto: 'Envie o menu',
-        comando: 'menu'
+        contexto: 'Envie o menu', // vc envia
+        comando: 'menu' // bot envia
     },
     {
         contexto: 'Abrir grupo às 10:00 am - requer hora formatada HH:mm',

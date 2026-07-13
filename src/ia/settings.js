@@ -12,13 +12,19 @@
  * -> Ainda não foi criado um sistema vibe github que consegue processar sem perder as alterações
  */
 
+// Apenas uma preocupação pra evitar que ela execute isso
 export const DANGEROUS_COMMANDS = [
     'nuke',
     'sair'
 ];
 
 export const DEFAULT_IA_CONFIG = {
+    // Nome pra IA se apresentar como:
     name: 'HutaoBot-MD',
-    prefixName: 'hutao',
-    outputResponse: false
+    
+    /**
+     * - Nome para IA ser chamada 
+     * -- deve ser minúsculo
+     */
+    prefixName: 'hutao'
 };

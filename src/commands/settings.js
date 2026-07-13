@@ -14,6 +14,12 @@
 
 import { DEFAULT_IA_CONFIG } from "../ia/settings.js";
 
+/**
+ * - Organização apenas 
+ * - Você pode adicionar mais pastas
+ 
+ * OBS: Não significa que o bot vai detectar se é ADM ou DONO. É só pra organização mesmo.
+ */
 export const PASTAS = [
     'adms',
     'membros',
@@ -21,18 +27,29 @@ export const PASTAS = [
     'global'
 ];
 
+
+/**
+ * - Mensagens iniciais 
+ * - Notificando os comandos que estão sendo carregados
+ *
+ * DICA: troque por false para desativar
+ */
 export const options = {
     debugMode: true, //False para desativar
     debugErrors: true, //Printa erros no console
     debugProcess: true //Printa processos realizados
 };
 
+
+/**
+ * - Evite que comandos perigosos sejam registrados
+ */
 export const NO_PREFIX_DANGEROUS_COMMANDS = [
     'nuke',
     'sair',
     'suicidio',
     'hutao',
     DEFAULT_IA_CONFIG.prefixName
-]
+];
 
 //# Works_in=system.js,messageUpsert.js

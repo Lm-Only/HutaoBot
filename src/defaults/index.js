@@ -19,11 +19,19 @@ import { SWP } from '../utils/jid-utils.js';
 
 import version from './baileys-version.json' with { type: 'json' };
 
+/**
+ * - Reação do comando não encontrado
+ * - Você pode mudar o enoji
+ *
+ * DICA: mude o true para false se quiser desativar a reação
+ */
 export const NOT_FOUND_COMMAND_REACT = {
     react: true,
     emoji: '❓'
 };
 
+
+// Apenas para quem entende
 export const DEFAULT_CONNECTION_CONFIG = {
     version,
     mobile: false,
@@ -41,6 +49,8 @@ export const DEFAULT_CONNECTION_CONFIG = {
     shouldSyncHistoryMessage: () => false
 };
 
+
+// sla, você vai mexer nisso?
 export const STATUS_CODES = {
     428: () => `[ ${colors.red('INFO')} ] - ${colors.red('Erro de conexão, iniciando novamente.')}`,
     401: () => `[ ${colors.yellow('WARNING')} ] - ${colors.red('O BOT FOI DESCONECTADO DO WHATSAPP, IREI APAGAR O QR-CODE. ( NÃO FECHE O BOT )')}`,
@@ -50,6 +60,7 @@ export const STATUS_CODES = {
     440: () => `[ ${colors.yellow('WARNING')} ] - ${colors.red('Conexão substituída: uma nova sessão foi aberta e conectada.\n')} ${colors.gray('Por favor, reconectar o bot novamente.')}`,
     unknownError: () => `[ ${colors.red('INFO')} ] - ${colors.gray('Conexão fechada. Irei reiniciar meus sistemas!')}`
 };
+
 
 /**
  * Obs: este nao é o corpo da mensagem
