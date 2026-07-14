@@ -1,23 +1,27 @@
 #!/usr/bin/env bash
 
+NODE_ARGS="
+--no-warnings
+"
+
 cleanFilesTemp() {
   rm -f ./*.jpg ./*.jpeg ./*.webp ./*.opus ./*.mp* ./*.m4a ./*.ogg ./*.zip ./*.gz ./*.png
 }
 
 updateBot() {
-  node index.js up
+  node $NODE_ARGS index.js up
 }
 
 startWithCode() {
-  node index.js cd
+  node $NODE_ARGS index.js cd
 }
 
 startWithQr() {
-  node index.js qr
+  node $NODE_ARGS index.js qr
 }
 
 defaultStart() {
-  node index.js
+  node $NODE_ARGS index.js
 }
 
 while :
