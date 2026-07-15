@@ -37,7 +37,7 @@ process.on('uncaughtException', (event) => {
     const nodeVersion = checkNodeVersion(20);
     if (!nodeVersion.ok) {
         mainLogger.error(colors.red(
-            '⚠️ É necessário a versão >=20 do nodeJS. ' +
+            '⚠️ É necessário a versão >=20 do NodeJS. ' +
             `Você atualmente está usando a versão: "${nodeVersion.now}" ` +
             'Atualize seu node ou aumente a versão.'
         ));

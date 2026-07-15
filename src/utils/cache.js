@@ -26,8 +26,7 @@ export const groupCache = new NodeCache({
     useClones: false
 });
 export const cacheDataGroup = new NodeCache({
-    stdTTL: 60, //60s
-    checkperiod: 120, //Intervalos
+    stdTTL: 5 * 60,
     useClone: false
 });
 export const LMT_CMD = new Map();
