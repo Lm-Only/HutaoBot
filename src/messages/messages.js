@@ -126,6 +126,7 @@ const MESSAGE_DONO = {
 };
 
 const MESSAGE_ADMS = {
+    muteMessageBan: '*Quem te deu permissão pra falar?* 😡',
     linkgpMessage: `*Aqui esta o link do grupo🙇‍♀️💖*\n\nhttps://chat.whatsapp.com/#link#`,
     acceptRequestMessage: '✨ Solicitações aceitas com *sucesso* no grupo: 🙇‍♀️\n#groupName#',
     muteUserMessage: `Usuário mutado: @#user# - Ação do adm: [ #adm# ]`,

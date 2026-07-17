@@ -53,4 +53,12 @@ export const NO_PREFIX_DANGEROUS_COMMANDS = [
     DEFAULT_IA_CONFIG.prefixName
 ];
 
-//# Works_in=system.js,messageUpsert.js
+
+/** Configs do comando de perfil */
+export const COMANDO_PERFIL = {
+    enviarAudio: true, // false - para desativar
+    reaction: {
+        active: true, // false - para não reagir
+        emoji: '💖' // Reação do bot ao usar "perfil"
+    }
+};
