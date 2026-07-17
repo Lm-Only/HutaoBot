@@ -6,7 +6,9 @@
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
 ┃╎୨୧ 🩸 {prefixo}ConfigurarBot "_Como Configurar_"
 ┃╎୨୧ 🩸 {prefixo}ModoIA
-┃╎୨୧ 🩸 {prefixo}Db 
+┃╎୨୧ 🩸 {prefixo}RgCmd
+┃╎୨୧ 🩸 {prefixo}DelCmd
+┃╎୨୧ 🩸 {prefixo}Db
 ┃╎୨୧ 🩸 {prefixo}Rgfigu <command>
 ┃╎୨୧ 🩸 {prefixo}RmFigu <position>
 ┃╎୨୧ 🩸 {prefixo}Listafigu

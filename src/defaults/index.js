@@ -19,19 +19,11 @@ import { SWP } from '../utils/jid-utils.js';
 
 import version from './baileys-version.json' with { type: 'json' };
 
-/**
- * - Reação do comando não encontrado
- * - Você pode mudar o enoji
- *
- * DICA: mude o true para false se quiser desativar a reação
- */
 export const NOT_FOUND_COMMAND_REACT = {
     react: true,
     emoji: '❓'
 };
 
-
-// Apenas para quem entende
 export const DEFAULT_CONNECTION_CONFIG = {
     version,
     mobile: false,
@@ -49,8 +41,6 @@ export const DEFAULT_CONNECTION_CONFIG = {
     shouldSyncHistoryMessage: () => false
 };
 
-
-// sla, você vai mexer nisso?
 export const STATUS_CODES = {
     428: () => `[ ${colors.red('INFO')} ] - ${colors.red('Erro de conexão, iniciando novamente.')}`,
     401: () => `[ ${colors.yellow('WARNING')} ] - ${colors.red('O BOT FOI DESCONECTADO DO WHATSAPP, IREI APAGAR O QR-CODE. ( NÃO FECHE O BOT )')}`,
@@ -60,7 +50,6 @@ export const STATUS_CODES = {
     440: () => `[ ${colors.yellow('WARNING')} ] - ${colors.red('Conexão substituída: uma nova sessão foi aberta e conectada.\n')} ${colors.gray('Por favor, reconectar o bot novamente.')}`,
     unknownError: () => `[ ${colors.red('INFO')} ] - ${colors.gray('Conexão fechada. Irei reiniciar meus sistemas!')}`
 };
-
 
 /**
  * Obs: este nao é o corpo da mensagem
@@ -106,14 +95,14 @@ const gerarContextNewsletter = () => {
     if (setting.channel === "0@newsletter") {
         return {};
     }
-    return { 
+    return {
         isForwarded: true, // Mensagem encaminhada
         forwardingScore: 1, // Encaminhou quantas vezes?
-        forwardedNewsletterMessageInfo: { 
+        forwardedNewsletterMessageInfo: {
             newsletterJid: setting.channel, // ID do canal - não mexa diretamente
             newsletterName: setting.NomeDoBot, // Nome do canal personalizado
             serverMessageId: '', // numero da mensagem do canal
-        } 
+        }
     };
 };
 
@@ -124,7 +113,7 @@ const gerarContextNewsletter = () => {
  * @returns {Object}
  */
 export const DEFAULT_CONTEXT_INFO = () => {
-    return { 
+    return {
         ...gerarContextNewsletter()
     }
 };
@@ -219,6 +208,18 @@ export const headerSendImage = (url, opts) => {
         caption: opts.query.trim(),
         mentions: opts.mentions
     };
+};
+
+/**
+ * ⚠️ - Atenção!! Coloquei isso como codigo aberto para que você possa se adiantar primeiro de as atualizações.
+ * As vezes alguma coisa muda na INFO, então você que entende, pode add aqui.
+ * Tipo, as vezes tem gente que consegue mudar a forma da mensagem de pagamento.
+ * Fazendo com que o bot não consiga detectar
+ * 
+ * @param {Object} param0 info.message
+ */
+export const PAYMENT_INFO_TO_DETECT = (message) => {
+    return message?.requestPaymentMessage?.noteMessage;
 };
 
 /**

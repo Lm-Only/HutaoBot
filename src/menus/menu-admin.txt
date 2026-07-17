@@ -107,6 +107,8 @@
 ┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
 ┃╎ঔৣ͜͡🀄 {prefixo}Status
+┃╎ঔৣ͜͡🀄 {prefixo}AntiPay
+┃╎ঔৣ͜͡🀄 {prefixo}Noprefix
 ┃╎ঔৣ͜͡🀄 {prefixo}Autodl "auto baixar"
 ┃╎ঔৣ͜͡🀄 {prefixo}Antilink
 ┃╎ঔৣ͜͡🀄 {prefixo}Advlink

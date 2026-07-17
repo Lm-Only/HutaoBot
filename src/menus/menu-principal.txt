@@ -24,7 +24,14 @@
 ╎
 ┏╾ׁ═╼･ﾟ♡ﾟ･｡🍸｡･ﾟ♡ﾟ･╾ᷓ═╼┓
 ┃╭╾ׁ═╼〔 • ✿ • 〕╾ׁ═╼╮
-┃╎୨୧ 🍸 {prefixo}ModoIA
+┃╎୨୧ 🍸 {prefixo}ModoIA _novo_
+┃╎୨୧ 🍸 {prefixo}NoPrefix _novo_
+┃╎୨୧ 🍸 {prefixo}RgCmd _novo_
+┃╎୨୧ 🍸 {prefixo}DelCmd _novo_
+┃╎୨୧ 🍸 {prefixo}AntiPay _novo_
+┃╎୨୧ 🍸 {prefixo}MuteB _novo_
+┃╎୨୧ 🍸 {prefixo}Stts _novo_
+┃╎-
 ┃╎୨୧ 🍸 {prefixo}ConfigurarBot "_Como Configurar_"
 ┃╎୨୧ 🍸 {prefixo}MenuBaixar
 ┃╎୨୧ 🍸 {prefixo}MenuFig

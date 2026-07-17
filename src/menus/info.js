@@ -95,7 +95,7 @@ const infos = {
 ┃╎↝ Prefixo: 〘 ${prefixo} 〙
 ┃╎↝ Nome Do Bot: ${NomeDoBot}
 ┃╎↝ Versão Do Bot: 10.0.0 💎
-┃╎↝ Baileys Version: 7.0.0.rc10
+┃╎↝ Baileys Version: 7.0.0.rc13
 ┃╎↝ Tema: Hutao / Genshin Inpact〘 Game 〙
 ┃╎↝ Dono: ${NickDono}
 ┃╎↝ Numero Do Dono: ${NumeroDoDono}
