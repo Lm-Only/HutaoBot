@@ -5,7 +5,15 @@ NODE_ARGS="
 "
 
 cleanFilesTemp() {
-  rm -f ./*.jpg ./*.jpeg ./*.webp ./*.opus ./*.mp* ./*.m4a ./*.ogg ./*.zip ./*.gz ./*.png
+  rm -f \
+    ./*.jpg ./*.jpeg ./*.png ./*.webp \
+    ./*.opus ./*.ogg ./*.m4a ./*.mp3 ./*.mp4 \
+    ./*.zip ./*.gz \
+    ./README.md \
+    ./SECURITY.md \
+    ./LICENSE \
+    ./CONTRIBUTING.md \
+    ./CODE_OF_CONDUCT.md
 }
 
 updateBot() {
