@@ -1,13 +1,14 @@
 {
     "name": "hutaobot",
     "version": "10.0.0",
-    "description": "Hutao Bot X.Edition",
+    "description": "Hutao Bot Versão Pro",
     "main": "index.js",
     "type": "module",
     "scripts": {
         "test": "node --watch src/test.js",
         "start": "ulimit -c 0 && bash start.sh",
-        "clean": "bash qrcode-reset.sh"
+        "clean": "bash qrcode-reset.sh",
+        "help": "node ./assets/help.js"
     },
     "repository": {
         "type": "git",
@@ -19,7 +20,7 @@
         "nodejs"
     ],
     "author": "Lm Only",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "bugs": {
         "url": "https://github.com/Lm-Only/HutaoBot/issues"
     },
