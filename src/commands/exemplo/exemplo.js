@@ -25,7 +25,7 @@
  * Modo de uso:
  * - Crie um arquivo em uma pasta de comandos detectada pelo bot.
  * - Use `hutao.setCommand({ name, description, commands, execute })`.
- * - `commands` deve ser um array com os gatilhos do comando.
+ * - `commands` deve ser um array com os gatilhos do comando. (não existe espaço emtre os comandos)
  * - `execute` é uma função async que receberá o contexto completo.
  *
  * Obrigatório:
