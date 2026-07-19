@@ -1,5 +1,5 @@
 //! moment-timezone.js
-//! version : 0.6.2
+//! version : 0.6.3
 //! Copyright (c) JS Foundation and other contributors
 //! license : MIT
 //! github.com/moment/moment-timezone
@@ -29,7 +29,7 @@
 	// 	return moment;
 	// }
 
-	var VERSION = "0.6.2",
+	var VERSION = "0.6.3",
 		zones = {},
 		links = {},
 		countries = {},
@@ -724,7 +724,7 @@
 	}
 
 	loadData({
-		"version": "2026b",
+		"version": "2026c",
 		"zones": [
 			"Africa/Abidjan|GMT|0|0||48e5",
 			"Africa/Nairobi|EAT|-30|0||47e5",
@@ -732,7 +732,7 @@
 			"Africa/Lagos|WAT|-10|0||17e6",
 			"Africa/Khartoum|CAT|-20|0||51e5",
 			"Africa/Cairo|EET EEST|-20 -30|0101010101010101010|29NW0 1cL0 1cN0 1fz0 1a10 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1a10 1fz0|15e6",
-			"Africa/Casablanca|+01 +00|-10 0|010101010101010101010101|24Pe0 e00 2600 gM0 2600 e00 28M0 e00 2600 gM0 2600 e00 28M0 e00 2600 gM0 2600 e00 2600 gM0 2600 e00 28M0|32e5",
+			"Africa/Casablanca|+01 +00|-10 0|01010101010101|24Pe0 e00 2600 gM0 2600 e00 28M0 e00 2600 gM0 2600 e00 1cL0|32e5",
 			"Europe/Paris|CET CEST|-10 -20|01010101010101010101010|24JB0 1qM0 WM0 1qM0 WM0 1qM0 11A0 1o00 11A0 1o00 11A0 1o00 11A0 1qM0 WM0 1qM0 WM0 1qM0 11A0 1o00 11A0 1o00|11e6",
 			"Africa/Johannesburg|SAST|-20|0||84e5",
 			"Africa/Juba|EAT CAT|-30 -20|01|24nx0|",
@@ -754,6 +754,7 @@
 			"America/Coyhaique|-03 -04|30 40|010101010|24Mr0 11B0 1nX0 14p0 1lb0 11B0 1qL0 11B0|",
 			"America/Phoenix|MST|70|0||42e5",
 			"America/New_York|EST EDT|50 40|01010101010101010101010|24E70 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0|21e6",
+			"America/Edmonton|MST MDT CST|70 60 60|0101010101012|24E90 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0|10e5",
 			"America/Los_Angeles|PST PDT|80 70|01010101010101010101010|24Ea0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0|15e6",
 			"America/Halifax|AST ADT|40 30|01010101010101010101010|24E60 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0|39e4",
 			"America/Godthab|-03 -02 -01|30 20 10|0101012121212121212121|24JB0 1qM0 WM0 1qM0 WM0 2so0 1o00 11A0 1o00 11A0 1o00 11A0 1qM0 WM0 1qM0 WM0 1qM0 11A0 1o00 11A0 1o00|17e3",
@@ -937,14 +938,13 @@
 			"America/Chicago|US/Indiana-Starke",
 			"America/Denver|America/Boise",
 			"America/Denver|America/Cambridge_Bay",
-			"America/Denver|America/Edmonton",
 			"America/Denver|America/Inuvik",
 			"America/Denver|America/Shiprock",
-			"America/Denver|America/Yellowknife",
-			"America/Denver|Canada/Mountain",
 			"America/Denver|MST7MDT",
 			"America/Denver|Navajo",
 			"America/Denver|US/Mountain",
+			"America/Edmonton|America/Yellowknife",
+			"America/Edmonton|Canada/Mountain",
 			"America/Godthab|America/Nuuk",
 			"America/Halifax|America/Glace_Bay",
 			"America/Halifax|America/Goose_Bay",

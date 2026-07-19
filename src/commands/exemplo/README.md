@@ -1,7 +1,7 @@
 # 📚 Centro de Documentação - HutaoBot V10.0.0
 
-> **Bem-vindo!** Este é o guia completo para entender e personalizar seu **HutaoBot-MD V10.0.0**. 
-> Aqui você encontrará tudo que precisa saber sobre **configurações**, **criação de comandos** e **funcionalidades**.
+> **Bem-vindo!** Este é o guia completo para entender e personalizar a **HutaoBot-MD V10.0.0** da forma que preferir. 
+> Aqui você encontrará tudo que precisa saber sobre **configurações**, **criação de comandos** e **funcionalidades** no bot.
 
 ---
 
@@ -44,6 +44,8 @@ src/
 ├── defaults/         # Configurações padrão
 └── utils/            # Funções utilitárias
 ```
+> OBS: O nome das pastas dos comandos não significa que o bot vai detectar automaticamente que é ADM, dono ou qualquer outra coisa.
+> É apenas para organização. Você deve fazer a verificação conforme os arquivos de exemplos
 
 ---
 
@@ -53,7 +55,7 @@ src/
 
 Este é o arquivo **central de configurações** do seu bot. Aqui você pode ajustar:
 
-#### 📌 Debug Mode
+#### 📌 Debug Mode - Carrega comandos e mostra no console
 ```javascript
 export const options = {
     debugMode: true,      // true = mostra logs | false = desativa
@@ -62,7 +64,7 @@ export const options = {
 };
 ```
 
-#### 🚫 Comandos Perigosos
+#### 🚫 Comandos Perigosos - Comandos sem prefixo
 ```javascript
 export const NO_PREFIX_DANGEROUS_COMMANDS = [
     'nuke',           // Comando para deletar grupo
@@ -96,33 +98,7 @@ export const DEFAULT_IA_CONFIG = {
 ```
 
 **Como usar**: Digite `hutao me ajude` ou `hutao <pedido>` para ativar a IA.
-
----
-
-## 🎮 Modos de Funcionamento
-
-### Modo Gamer 🎮
-
-O **Modo Gamer** permite comandos divertidos e interativos em grupos:
-
-#### Ativar/Desativar
-- **Comando**: `gamertrue` (liga) | `gamerfalse` (desliga)
-- **Requisito**: Apenas administradores podem usar
-- **Descrição**: Ativa funções como rank gay, comer, entre outros
-
-#### Comandos Disponíveis (Modo Gamer)
-
-| Comando | Uso | Descrição |
-|---------|-----|-----------|
-| `rankgay` | `rankgay` | Mostra ranking dos "mais gays" do grupo |
-| `comer` | `comer @usuario` | Ação divertida com menção a usuário |
-| `transar` | `transar @usuario` | Ação divertida com menção a usuário |
-
-### Modo RPG 🗡️
-
-Sistema de RPG com durabilidade de ferramentas e progressão de personagem.
-
-**Status**: Ainda em desenvolvimento. Verifique `src/commands/` para mais detalhes.
+**OBS**: Use o comando *modoIA help* para saber mais
 
 ---
 
@@ -168,7 +144,7 @@ hutao.setCommand({
         mention,         // Menção (@usuario)
     }) => {
         
-        // Sua lógica aqui
+        // Seu comando aqui
         reply('Olá! Este é meu comando personalizado!');
     }
 });
@@ -187,6 +163,7 @@ hutao.setCommand({
     
     execute: async ({ reply, pushname }) => {
         reply(`Oi ${pushname}! Como vai? 😊`);
+        // Oi Lm Only! Como vai?
     }
 });
 ```
@@ -195,6 +172,8 @@ hutao.setCommand({
 
 ```javascript
 import { hutao } from "../system.js";
+
+// Imagens prontas em formato de Link
 import IMAGENS from '../../../assets/media/images/imglinks.json' with { type: 'json' };
 
 hutao.setCommand({
@@ -222,7 +201,7 @@ hutao.setCommand({
     commands: ['admintest'],
     
     execute: async ({ isAdm, reply }) => {
-        if (!isAdm) return reply(txt.admin_only);
+        if (!isAdm) return reply(txt.only_adm);
         
         reply('✅ Você é um administrador!');
     }
@@ -294,7 +273,6 @@ O HutaoBot possui um **sistema de IA integrado** que usa **Google Generative AI*
 
 ### 📚 Onde Está Configurada
 
-- **Arquivo principal**: `src/ia/generativeIA.js`
 - **Settings**: `src/ia/settings.js`
 - **Base de dados**: `src/ia/database/`
 
@@ -320,6 +298,8 @@ const COMMANDS_IA = [
     }
 ];
 ```
+> ***OBS***: Resuma o maximo que voce conseguir. Pois quanto mais a IA processa, mais é o gasto
+
 
 #### ➕ Adicionando Novo Comando para a IA
 
@@ -338,11 +318,11 @@ const COMMANDS_IA = [
 ```javascript
 {
     contexto: 'Mostrar informações do bot',
-    comando: 'info'
+    comando: 'infobot'
 }
 ```
 
-Agora quando o usuário disser "Mostrar informações do bot", a IA executará o comando `info`.
+Agora quando o usuário disser "hutao Mostre as informações do bot ae rs", a IA executará o comando `infobot`.
 
 ### 📋 Sistema Duplo: Comando + Conversa
 
@@ -404,12 +384,12 @@ export default [
     contenha: ["sua", "palavra"],    // Palavras-chave em MINÚSCULAS e SEM ACENTUAÇÃO
     enviar: [
         {
-            tipo: "react",
-            text: "😊"
+            tipo: "react", // pra reagir
+            text: "😊" // emoji
         },
         {
-            tipo: "message",
-            text: "Olá! Você mencionou minha palavra!"
+            tipo: "message", // tipo mensagem
+            text: "Olá! Você mencionou minha palavra!" // mensagem que quiser
         }
     ]
 }
@@ -460,6 +440,8 @@ Aqui estão as mensagens **padrão do bot**. Você pode customizar:
 - Respostas a comandos
 - Mensagens de espera
 
+> OBS: Mexa so o que tiver dentro de '', "", ou ˋˋ
+
 #### Arquivo: `src/messages/system.js`
 
 Mensagens de **sistema do bot**:
@@ -467,6 +449,8 @@ Mensagens de **sistema do bot**:
 - Conexão estabelecida
 - Erros de conexão
 - Modo de conexão (QR ou código)
+
+> Recomendavel não mexer
 
 ### 🖼️ Imagens e Mídia
 
@@ -477,7 +461,7 @@ assets/
 ├── media/
 │   ├── images/
 │   │   ├── imglinks.json      # URLs de imagens
-│   │   └── logo.json          # Logos e branding
+│   │   └── logo.json          # Logos do menu (link/caminho path)
 │   └── audios/
 │       ├── bomdia.mp3
 │       ├── aids.mp3
@@ -630,6 +614,6 @@ isMedia           // true = é mídia (imagem, vídeo, etc)
 
 ---
 
-**© 2024 HutaoBot-MD V10.0.0** | **Desenvolvido por Lm Only** ✨
+**© 2026 HutaoBot-MD V10.0.0** | **Desenvolvido por Lm Only** ✨
 
 > ⚠️ Lembre-se: Use o bot moderadamente e evite compartilhar o projeto.

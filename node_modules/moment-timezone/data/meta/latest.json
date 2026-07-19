@@ -1,5 +1,5 @@
 {
-	"version": "2026b",
+	"version": "2026c",
 	"countries": {
 		"AD": {
 			"name": "Andorra",
@@ -2713,7 +2713,7 @@
 			"countries": [
 				"CA"
 			],
-			"comments": "Mountain - AB, BC(E), NT(E), SK(W)"
+			"comments": "CST - AB, BC(E), NT(E), SK(W)"
 		},
 		"America/Cambridge_Bay": {
 			"name": "America/Cambridge_Bay",

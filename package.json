@@ -45,7 +45,7 @@
         "form-data": "^4.0.6",
         "linkifyjs": "^4.3.3",
         "mime-types": "^3.0.2",
-        "moment-timezone": "^0.6.1",
+        "moment-timezone": "^0.6.3",
         "node-fetch": "^3.3.2",
         "node-webpmux": "^3.2.1",
         "performance-now": "^2.1.0",

@@ -1,5 +1,5 @@
 //! moment-timezone.js
-//! version : 0.6.2
+//! version : 0.6.3
 //! Copyright (c) JS Foundation and other contributors
 //! license : MIT
 //! github.com/moment/moment-timezone
@@ -29,7 +29,7 @@
 	// 	return moment;
 	// }
 
-	var VERSION = "0.6.2",
+	var VERSION = "0.6.3",
 		zones = {},
 		links = {},
 		countries = {},
