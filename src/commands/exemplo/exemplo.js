@@ -29,6 +29,7 @@
  * - `execute` é uma função async que receberá o contexto completo.
  *
  * Obrigatório:
+ * - import { hutao } ...
  * - `commands`: lista de comandos que ativam este módulo.
  * - `execute`: função que executa a lógica.
  *
@@ -81,9 +82,11 @@ hutao.setCommand({
         isGroup, // se tiver em grupo
         botNumber, // Numero do bot
         command, // comando executado,
-        getGroupData, // Obter info de algum grupo pelo ID
-        groupMetadata, // Info do grupo atual se enviou por um
-        quoted // Menssagem de exemplo - da pra fazer um fake
+        getGroupData, // Obter info de algum grupo pelo ID {subject = nome, description e etc} #baileys
+        groupMetadata, // Info do grupo atual se enviou por um {Object}
+        quoted, // Menssagem de exemplo - da pra fazer um fake {Object}
+        isModoGamer, //Modo Brincadeira checar Boolean
+        isModoRpg, // ModoRpg checar Boolean
     }) => {
         if (!isDono) return reply(txt.Owner);
         
