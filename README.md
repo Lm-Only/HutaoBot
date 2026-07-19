@@ -28,97 +28,44 @@
 
 ---
 
-## ⚠️ ATENÇÃO!!
-
+# ATENÇÃO!!
 > [!IMPORTANT]
-> **Para acessar o bot, é necessário adquirir o arquivo. Por apenas R$35,00 reais você recebe uma chave de acesso, que permite utilização do bot.**
-> **Após isso você fica pagando R$2.50 por mês.** [**Fale Conosco**](https://wa.me/559284828701?text=Comprar%20HutaoBot-MD%20V10.0.0)
+> **Para acessar o bot, é necessário adquirir o arquivo. Por apenas R$35,00 reais você recebe uma chave de acesso, que permite utilização do bot.
+> Após isso você fica pagando 2.50R$ por mês. [__Fale Conosco__](https://wa.me/559284828701?text=Comprar%20HutaoBot-MD%20V10.0.0)**
 
 > O pagamento mensal é para que o bot continue recebendo atualizações novas.
 > Qualquer problema, será resolvido imediatamente.
 
-> **Ao comprar o Bot, você deve assistir o Tutorial de Como usar a [API do Yuta](https://yuta-apis.xyz/)**
+> **Ao Comprar o Bot de Instalar, você deve assitir o Tutorial de Como usar a [__API do Yuta__](yuta-apis.xyz/)**
 
 ---
 
 <details>
 <summary>
 
-## 🎮 HOSPEDAGEM 💎
+## 🎮 INICIAR POR HOSPEDAGEM 💎
 
 </summary>
 
-### 📋 Pré-requisitos
-- Uma conta em uma plataforma de hospedagem (recomendado: Cpanel, Hostinger, etc)
-- Um servidor criado e ativo
-- Acesso ao gerenciador de arquivos
+**Você precisa ter um login na sua Hospedagem e um Servidor Criado**
 
-### ✨ Passos Simples
+## Passos simples: ✨️
 
-<details>
-<summary>
-
-#### 1️⃣ PASSO: Baixar o Arquivo ZIP
-
-</summary>
-
-**Baixe o arquivo ZIP do bot:**
-
-[🔗 Clique aqui para baixar](https://github.com/Lm-Only/HutaoBot/archive/refs/heads/main.zip)
-
-O arquivo será salvo na pasta `downloads` com o nome `HutaoBot-main.zip`
-
-</details>
-
-<details>
-<summary>
-
-#### 2️⃣ PASSO: Fazer Upload do Arquivo
-
-</summary>
-
-Entre no seu servidor na hospedagem:
-
-1. Procure pela opção de **Upload** no gerenciador de arquivos
-2. Selecione o arquivo `HutaoBot-main.zip`
-3. Aguarde o upload ser concluído
-
-**💡 Dica:** Dependendo da hospedagem, pode conter diferenças entre parâmetros, nomes e botões.
-
-</details>
-
-<details>
-<summary>
-
-#### 3️⃣ PASSO: Extrair os Arquivos
-
-</summary>
-
-Após selecionar o arquivo:
-
-1. Clique com o botão direito no arquivo ZIP
-2. Selecione **Extrair** ou **Descompactar**
-3. Mova todos os arquivos de dentro da pasta `HutaoBot-main` para fora
-
-**⚠️ Importante:** Você deve extrair corretamente para que o bot funcione!
-
-</details>
-
-<details>
-<summary>
-
-#### 4️⃣ PASSO: Iniciar o Servidor
-
-</summary>
-
-1. Inicie seu servidor na hospedagem
-2. O bot será iniciado automaticamente
-3. Se for a primeira vez, o bot pedirá uma chave de acesso
-4. Cole a chave que você comprou (ela virá por email ou WhatsApp)
-
-**✅ Pronto!** Seu bot está funcionando!
-
-</details>
+> Dependendo da sua Hospedagem, pode conter Diferenças entre Parâmetros, Nomes e Botões.
+------------------
+1 - PASSO: 💖
+> Baixe o arquivo ZIP do bot
+> [Baixe aqui](https://github.com/Lm-Only/HutaoBot/archive/refs/heads/main.zip)
+------------------
+2 - PASSO: 💖
+> • Entre no seu servidor na hospedagem, procure a opção de **upload** e procure pelo arquivo baixado. (geralmente no celular fica na pasta **downloads** com o nome **HutaoBot-MD-main.zip**).
+------------------
+3 - PASSO: 💖
+> • Após selecionar o arquivo, é necessário extrair corretamente. (na maioria das vezes tem que mover o todos os arquivos de dentro da pasta HutaoBot-MD-main pra fora após extrair)
+------------------
+4 - PASSO: 💖
+> • Inicie o servidor e espere o bot pedir a key caso ainda não tenha. (você deve comprar a key e colar quando pedir)
+------------------
 
 </details>
 
@@ -127,214 +74,99 @@ Após selecionar o arquivo:
 <details>
 <summary>
 
-## 📱 TERMUX 🌷
+## 📱 INICIAR PELO TERMUX 🌷
 
 </summary>
 
-### 📥 Instalação do Termux
+**Caso Não tenha o termux instalado**
+[Instale aqui](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file).
 
-Se você não tem o Termux instalado, [**clique aqui para baixar**](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file).
+## Executando comandos básicos: ✨
 
-### 🎯 Executando Comandos Básicos
+**Após instalar o apk, execute os seguintes comandos abaixo:**
 
-**Copie e cole apenas 1 comando por vez, e pressione ENTER no seu teclado.**
-**Espere o comando acabar para iniciar outro.**
-
----
-
-<details>
-<summary>
-
-#### 1️⃣ COMANDO: Permitir Acesso ao Armazenamento
-
-</summary>
-
-Execute este comando para permitir que o Termux acesse seus arquivos:
-
-```bash
+> Copie e cole apenas 1 comando por vez, e pressione ENTER ou Pular Linha no seu teclado.
+> Espere o comando acabar para iniciar outro.
+------------------
+1 - COMANDO: 🌸
+````bash
 termux-setup-storage
-```
-
-O Termux pedirá permissão. **Toque em PERMITIR**.
-
-</details>
-
-<details>
-<summary>
-
-#### 2️⃣ COMANDO: Atualizar Pacotes
-
-</summary>
-
-Execute este comando para atualizar todos os pacotes do Termux:
-
-```bash
+````
+> Permitir que o termux acesse seus arquivos
+------------------
+2 - COMANDO: 🌸
+````bash
 pkg upgrade -y && pkg update -y
-```
-
-**⚠️ Atenção:** Se aparecer `(Y/I/N/O/D/Z) [default=N] ?`, escreva **Y** e pressione ENTER.
-
-</details>
-
-<details>
-<summary>
-
-#### 3️⃣ COMANDO: Instalar Dependências
-
-</summary>
-
-Instale todas as ferramentas necessárias para o bot:
-
-```bash
+````
+> **Atenção**!!!
+> Se aparecer "(Y/I/N/O/D/Z) [default=N] ?", use Y e após Enter ou pular linha no seu teclado.
+------------------
+3 - COMANDO: 🌸
+````bash
 pkg install -y ffmpeg nodejs-lts wget tesseract git
-```
-
-Este comando pode levar alguns minutos. **Aguarde com paciência!**
-
-</details>
-
-<details>
-<summary>
-
-#### 4️⃣ COMANDO: Clonar o Repositório
-
-</summary>
-
-Baixe os arquivos do bot do GitHub:
-
-```bash
+````
+4 - COMANDO: 🌸
+````bash
 cd /sdcard && git clone https://github.com/Lm-Only/HutaoBot
-```
-
-Este comando baixará todos os arquivos do bot.
-
-</details>
-
-<details>
-<summary>
-
-#### 5️⃣ COMANDO: Iniciar o Bot
-
-</summary>
-
-Para iniciar o bot, use este comando:
-
-```bash
+````
+> Baixar os arquivos do bot.
+------------------
+5 - COMANDO: 🌸
+````bash
 cd /sdcard/HutaoBot && npm start
-```
-
-**💡 Use este comando toda vez que quiser ligar o bot!**
-
-**⚠️ Atenção:** Na primeira inicialização, o bot pedirá a chave de acesso. Cole com cuidado!
-
-</details>
-
-<details>
-<summary>
-
-#### ⭐ COMANDO ADICIONAL: Atualizar Automaticamente
-
-</summary>
-
-Quando houver atualizações disponíveis, use este comando:
-
-```bash
+````
+> Use-o para toda vez que for ligar o bot!
+> Muita atenção na hora de colar a key se for primeira inicialização.
+------------------
+COMANDO ADICIONAL: 🌸
+````bash
 cd /sdcard/HutaoBot && npm start up
-```
-
-Este comando atualiza o bot automaticamente para a versão mais recente.
-
-</details>
-
-</details>
-
----
-
-<details>
-<summary>
-
-## 🎬 TUTORIAIS & DOCUMENTAÇÃO 📚
-
-</summary>
-
-### 📺 Vídeo Tutoriais
-
-- [🎯 **Como Instalar** - Guia completo de instalação](https://youtu.be/UEayN52fsco)
-- [🔄 **Como Atualizar** - Saiba como manter seu bot atualizado](https://youtu.be/7B5EkX5PFFk)
-- [⚙️ **API do Yuta** - Tutorial de como usar a API do Yuta](https://www.youtube.com/watch?v=RiWTirsWTeg)
-- [💬 **Auto Resposta** - Como editar a auto resposta do bot](https://youtu.be/VjOEOy4mrUc)
-- [📺 **Canal YouTube** - Inscreva-se para mais tutoriais](https://youtube.com/@hutaobotoficial)
-
-### 📚 Documentação Completa
-
-<details>
-<summary>
-
-#### 📖 Centro de Documentação - HutaoBot V10.0.0
-
-</summary>
-
-Acesse o guia completo com:
-
-- ✅ Como criar seus próprios comandos
-- ✅ Configurações principais do bot
-- ✅ Sistema de IA integrado
-- ✅ Auto resposta personalizada
-- ✅ Personalizações visuais
-- ✅ Resolução de erros comuns
-- ✅ Referência rápida de parâmetros
-
-**📂 Localização:** `src/commands/exemplo/README.md`
-
-[🔗 **Abrir Documentação Completa** →](https://github.com/Lm-Only/HutaoBot/blob/main/src/commands/exemplo/README.md)
-
-</details>
-
-### 🔗 Mais Recursos
-
-- [💬 **WhatsApp Support** - Tire suas dúvidas com nosso time](https://wa.me/559284828701?text=Preciso%20de%20ajuda%20com%20HutaoBot)
-- [📢 **Canal de Updates** - Fique atualizado com as novidades](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
+````
+> **Atualizar automaticamente**:
+> Use esse comando quando houver atualizações disponíveis.
+------------------
 
 </details>
 
 ---
 
-## ⭐ Sistemas Mais Avaliados
+## TUTORIAIS - YouTube 🌟
 
-| Sistema | Função |
-|---------|--------|
-| 🔓 Opengp & Closegp | Abre e Fecha grupos automaticamente |
-| 📢 Parceria | Divulgações por limite diário |
-| 🖼️ Comandos por figurinhas | Sem precisar digitar nada |
-| 💰 Aluguel | Sistema super otimizado |
-| 👋 Bem vindo | Defina uma imagem de fundo personalizada |
-| ⬇️ Auto Baixar | Baixa vídeos do Instagram e Tiktok automaticamente |
-| ⚠️ Anti flood com advertências | Sistema automático de advertências |
+ * [__Tutorial de como instalar__](https://youtu.be/UEayN52fsco)
+ * [__Tutorial de como atualizar__](https://youtu.be/7B5EkX5PFFk)
+ * [__Tutorial de como de Como usar a API do Yuta__](https://www.youtube.com/watch?v=RiWTirsWTeg)
+ * [__Tutorial de como Editar o Auto Resposta__](https://youtu.be/VjOEOy4mrUc)
+ * [__Documentação Completa - Centro de Documentação HutaoBot__](https://github.com/Lm-Only/HutaoBot/blob/main/src/commands/exemplo/README.md)
+> Veja mais em nosso canal do YouTube [__Hutao Bot Oficial__](https://youtube.com/@hutaobotoficial)
 
----
+------------------
 
-## ⚠️ Avisos Importantes
+## Atenção 
 
-- ✅ Use o bot **moderadamente**
-- ✅ **Evite compartilhar** o projeto
-- ✅ **Proibido venda** de terceiros
-- ✅ Estaremos sempre de olho em **qualquer ação inapropriada**
+- Use o bot moderadamente
+- Evite compartilhar o projeto 
+- Proibido venda de terceiros
+> Estaremos sempre de olho em qualquer ação inapropriada
 
----
+## Contributors
 
-## 📞 Suporte & Comunidade
+- **Update**: Canal onde será postado updates da HutaoBot-MD. ✨
 
-**Encontrou um problema ou tem uma dúvida?**
+* [__Canal__](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
 
-- [💬 WhatsApp Support](https://wa.me/559284828701?text=Preciso%20de%20ajuda%20com%20HutaoBot)
-- [📺 YouTube](https://youtube.com/@hutaobotoficial)
-- [📢 Canal de Updates](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
+## Sistemas mais avaliados 
 
----
+| Sistema          | Função
+| :----------------- | :------------------------- | 
+| Opengp & Closegp            | Abre e Fecha grupos automaticamente
+| Parceria               | Divulgações por limite diário
+| Comandos por figurinhas           | Sem precisar digitar nada
+| Aluguel          | Sistema super otimizado
+| Bem vindo           | Podes definir uma imagem de fundo
+| Auto Baixar           | Baixa vídeos do Instagram e Tiktok automaticamente
+| Anti flood com advertências          | sistema automático de advertências
 
-## 📜 License
+## License
 
 Licensed under [MIT](./LICENSE).
-Todos os direitos reservados © 2026 HutaoBot-MD V10.0.0
-
-**Desenvolvido por Lm Only** ✨
+Todos os direitos reservados
