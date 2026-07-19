@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 📚 Centro de Documentação - HutaoBot V10.0.0
 
 > **Bem-vindo!** Este é o guia completo para entender e personalizar seu **HutaoBot-MD V10.0.0**. 
@@ -634,4 +633,3 @@ isMedia           // true = é mídia (imagem, vídeo, etc)
 **© 2024 HutaoBot-MD V10.0.0** | **Desenvolvido por Lm Only** ✨
 
 > ⚠️ Lembre-se: Use o bot moderadamente e evite compartilhar o projeto.
-````
