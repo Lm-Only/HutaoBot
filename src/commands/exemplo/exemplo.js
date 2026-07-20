@@ -5,6 +5,7 @@
  *
  * Este arquivo mostra como criar um comando personalizado que integra com o
  * sistema principal de comandos do HutaoBot.
+ * Olhe outros. arquivos principalmente a pasta ../membros - Nela terá mais referências e exemplos precisos
  *
  * Como funciona:
  * - O sistema principal carrega arquivos em `src/commands/*` e registra os
@@ -21,6 +22,10 @@
  * - `txt` de `../../messages/messages.js`: padrão de mensagens de erro.
  * - `global` e `menuMidia`: arquivos JSON usados para demonstrar o uso de
  *   configuração e mídia estática.
+ * hutao sendImage e Video suporta tanto url quanto caminho do arquivo, referência main de pastas
+ * ./assets/media/images
+ * além disso, o reply e os métodos enviados acima, já suportam menção automaticamente sem precisar definir "mentions: [...]" ele detecta o @ e já configura.
+ *
  *
  * Modo de uso:
  * - Crie um arquivo em uma pasta de comandos detectada pelo bot.

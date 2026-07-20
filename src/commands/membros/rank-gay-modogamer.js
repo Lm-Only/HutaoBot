@@ -60,7 +60,7 @@ hutao.setCommand({
             /** Envia imagem + legenda texto **/
             hutao.sendImage(from, IMAGEM_GAY, TEXTO_GAY, info);
         } catch (error) {
-            console.error(err); // Printa no console
+            console.error(error); // Printa no console
             reply(`*HOUVE UM PROBLEMA...🤧*`); // Mensagem de aviso no Whatsapp
         }
     }
