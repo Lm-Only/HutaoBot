@@ -54,12 +54,24 @@
 /** Obrigatório - Dois pontos significa (voltar 1 pasta) **/
 import { hutao } from "../system.js";
 
+/** delay para algo **/
+import { delay } from "baileys";
+
 /** Importa o que vai precisar **/
 import { load } from "cheerio";
+
+import { 
+    setting, // prefixo, NomeDoBot, NickDono e NumeroDoDono
+    arrayRandom, // pega um valor aleatorio de um array e retorna
+    getFileBuffer, // Baileys methods download media buffer from whatsapp
+} from "../../utils/generics.js"; // Funções uteis e prontas
 import txt from '../../messages/messages.js';
 
 import global from '../../../assets/settings/global.json' with { type: 'json' };
 import menuMidia from '../../../assets/media/images/logo.json' with { type: 'json' };
+
+// Imagens prontas via URL
+import IMAGENS_URL from '../../../assets/media/images/imglinks.json' with { type: 'json' };
 
 /** Adicionar um comando **/
 hutao.setCommand({
@@ -83,13 +95,13 @@ hutao.setCommand({
         isMedia, // se é midia
         contentType, // tipo de mensagem
         isBot, // se é o bot
-        q, // mensagem que fica ao lado de um comando
-        isGroup, // se tiver em grupo
+        q, // mensagem inserida apos o comando {String}
+        isGroup, // se tiver em grupo {Boolean}
         botNumber, // Numero do bot
-        command, // comando executado,
+        command, // comando executado, 
         getGroupData, // Obter info de algum grupo pelo ID {subject = nome, description e etc} #baileys
         groupMetadata, // Info do grupo atual se enviou por um {Object}
-        quoted, // Menssagem de exemplo - da pra fazer um fake {Object}
+        quoted, // Marca a mensagem do usuario se usar - da pra fazer um fake chat {Object}
         isModoGamer, //Modo Brincadeira checar Boolean
         isModoRpg, // ModoRpg checar Boolean
     }) => {
@@ -155,3 +167,8 @@ hutao.setCommand({
     }
 });
 
+/**
+ * PARAMS_FOR_AI
+ * 
+ * @params hutao.sendImage and Video = (id, link/path, text, quoted?)
+ */

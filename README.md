@@ -165,6 +165,9 @@ cd /sdcard/HutaoBot && npm start up
 | Bem vindo           | Podes definir uma imagem de fundo
 | Auto Baixar           | Baixa vídeos do Instagram e Tiktok automaticamente
 | Anti flood com advertências          | sistema automático de advertências
+| Comandos sem Prefixo           | Facilita no uso de comandos
+| ModoIA           | IA interativa da Hutao bot
+| Comandos personalizados           | Você pode criar seus comandos
 
 ## License
 

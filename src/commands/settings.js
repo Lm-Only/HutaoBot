@@ -23,7 +23,7 @@ import { DEFAULT_IA_CONFIG } from "../ia/settings.js";
 export const PASTAS = [
     'adms',
     'donos',
-    'exemplo',
+  //  'exemplo', //removido por segurança
     'global',
     'membros'
 ];
