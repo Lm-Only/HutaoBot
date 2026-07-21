@@ -1,7 +1,7 @@
 import { hutao } from "../system.js";
 
 import txt from "../../messages/messages.js";
-import globalText from "../../messages/globalText.js";
+import * as globalText from "../../messages/index.js";
 
 hutao.setCommand({
     name: 'Golpista',
