@@ -141,6 +141,15 @@ cd /sdcard/HutaoBot && npm start up
 
 ------------------
 
+### ⚠️ Requisitos
+
+- **Nodejs**: Versão >= 20.0.0
+- **CPU**: acima de 50%
+- **Memória RAM**: acima de 500Mb
+- **Armazenamento**: acima de 1Gb
+- **Motivo**: A HutaoBot deixa de mão a otimização para entrar em fase de alto consumo e verificações pesadas.
+
+
 ## Atenção 
 
 - Use o bot moderadamente
@@ -154,7 +163,7 @@ cd /sdcard/HutaoBot && npm start up
 
 * [__Canal__](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
 
-## Sistemas mais avaliados 
+## ✅️ Sistemas mais avaliados 
 
 | Sistema          | Função
 | :----------------- | :------------------------- | 
@@ -165,11 +174,18 @@ cd /sdcard/HutaoBot && npm start up
 | Bem vindo           | Podes definir uma imagem de fundo
 | Auto Baixar           | Baixa vídeos do Instagram e Tiktok automaticamente
 | Anti flood com advertências          | sistema automático de advertências
-| Comandos sem Prefixo           | Facilita no uso de comandos
-| ModoIA           | IA interativa da Hutao bot
-| Comandos personalizados           | Você pode criar seus comandos
 
-## License
+###  💎 Novidades
 
-Licensed under [MIT](./LICENSE).
-Todos os direitos reservados
+| Sistema          | Função
+| :----------------- | :------------------------- | 
+| 👑 Comandos personalizados           | Sistema avançado para criar próprios comandos. 
+| 🌌 Anti status mencionar         | Anti menção de status em grupos
+| 💡 Comandos sem prefixo         | Comando apenas por letras
+| 💎 IA personalizável          | Você pode personalizar a IA para se comportar do jeito que você quiser. 
+| 💖 Mensagem personalizada        | Você pode personalizar a aparência de mensagens do bot do jeito que quiser.
+| 👨🏻‍💻 Códigos abertos         | Partes de códigos estarão disponíveis.
+| 🌷 Design novo        | Visul novo para o bot (menu, mensagens e logos)
+| 🌟 Novas brincadeiras        | Mais brincadeiras para o bot.
+| ✍️ +Editar mensagens      | Mais possibilidades de editar mensagens.
+
