@@ -24,6 +24,8 @@
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Louça 
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Carinho
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Comer
+┃╎☆ۣۜۜ͜͡🍹 {prefixo}Calvo
+┃╎☆ۣۜۜ͜͡🍹 {prefixo}Calva
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Abraço
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Matar 
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Gado
