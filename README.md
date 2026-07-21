@@ -149,19 +149,7 @@ cd /sdcard/HutaoBot && npm start up
 - **Armazenamento**: acima de 1Gb
 - **Motivo**: A HutaoBot deixa de mão a otimização para entrar em fase de alto consumo e verificações pesadas.
 
-
-## Atenção 
-
-- Use o bot moderadamente
-- Evite compartilhar o projeto 
-- Proibido venda de terceiros
-> Estaremos sempre de olho em qualquer ação inapropriada
-
-## Contributors
-
-- **Update**: Canal onde será postado updates da HutaoBot-MD. ✨
-
-* [__Canal__](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
+------------------
 
 ## ✅️ Sistemas mais avaliados 
 
@@ -174,6 +162,8 @@ cd /sdcard/HutaoBot && npm start up
 | Bem vindo           | Podes definir uma imagem de fundo
 | Auto Baixar           | Baixa vídeos do Instagram e Tiktok automaticamente
 | Anti flood com advertências          | sistema automático de advertências
+
+------------------
 
 ###  💎 Novidades
 
@@ -188,4 +178,17 @@ cd /sdcard/HutaoBot && npm start up
 | 🌷 Design novo        | Visul novo para o bot (menu, mensagens e logos)
 | 🌟 Novas brincadeiras        | Mais brincadeiras para o bot.
 | ✍️ +Editar mensagens      | Mais possibilidades de editar mensagens.
+
+## Atenção 
+
+- Use o bot moderadamente
+- Evite compartilhar o projeto 
+- Proibido venda de terceiros
+> Estaremos sempre de olho em qualquer ação inapropriada
+
+## Contributors
+
+- **Update**: Canal onde será postado updates da HutaoBot-MD. ✨
+
+* [__Canal__](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
 
