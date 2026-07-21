@@ -26,6 +26,7 @@ hutao.setCommand({
         isAdm,
         isGroup,
         from,
+        react,
         reply,
     }) => {
         if (!isGroup) return reply(txt.only_group);
