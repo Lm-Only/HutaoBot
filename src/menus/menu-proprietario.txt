@@ -70,6 +70,7 @@
 ┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
 ┃╎୨୧ ⚔️ {prefixo}Bangp
+┃╎୨୧ ⚔️ {prefixo}AudioMenu
 ┃╎୨୧ ⚔️ {prefixo}Anti-Arqv
 ┃╎୨୧ ⚔️ {prefixo}Antidelete
 ┃╎୨୧ ⚔️ {prefixo}Aluguel

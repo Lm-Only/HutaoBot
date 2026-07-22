@@ -5,6 +5,7 @@
 ┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
 ┃╎☆ۣۜۜ͜͡🎴 {prefixo}Ban "@"
+┃╎☆ۣۜۜ͜͡🎴 {prefixo}MuteB
 ┃╎☆ۣۜۜ͜͡🎴 {prefixo}AddCmdAdm
 ┃╎☆ۣۜۜ͜͡🎴 {prefixo}DelCmdAdm
 ┃╎☆ۣۜۜ͜͡🎴 {prefixo}ListaCmdAdm

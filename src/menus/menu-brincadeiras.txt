@@ -12,6 +12,8 @@
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Tomate
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Linda
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Lindo 
+┃╎☆ۣۜۜ͜͡🍹 {prefixo}Rico
+┃╎☆ۣۜۜ͜͡🍹 {prefixo}Pobre
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Gay
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Bct
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Pau
@@ -20,6 +22,8 @@
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Lésbica
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Puta
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Tapa
+┃╎☆ۣۜۜ͜͡🍹 {prefixo}Sorte
+┃╎☆ۣۜۜ͜͡🍹 {prefixo}Fiel
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Beijo
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Louça 
 ┃╎☆ۣۜۜ͜͡🍹 {prefixo}Carinho
@@ -57,6 +61,8 @@
 ┃╎్మాై🎐 {prefixo}Ranklinda
 ┃╎్మాై🎐 {prefixo}Ranklindo
 ┃╎్మాై🎐 {prefixo}Rankbebado
+┃╎్మాై🎐 {prefixo}RankFiel
+┃╎్మాై🎐 {prefixo}RankPuta
 ┃╎్మాై🎐 {prefixo}Rankgay
 ┃╎్మాై🎐 {prefixo}Rankcorno
 ┃╎్మాై🎐 {prefixo}Rankotaku
