@@ -93,16 +93,21 @@ export const write = async (text) => {
  * @param {boolean} isWrite - animation (on/off)
  * @returns {<promisse>}
  */
-export const question = (text = '', isWrite) => {
+export const question = (text = '', isWrite = false) => {
     if (isWrite) {
         write(text);
     } else {
-        process.stdin.write(text);
+        process.stdout.write(text);
     }
-    return new Promise(resolve => process.stdin.on("data", (data) => {
-        process.stdin.removeAllListeners("data");
-        resolve(data.toString().trim());
-    }));
+
+    return new Promise(resolve => {
+        const onData = data => {
+            process.stdin.removeListener('data', onData);
+            resolve(data.toString().trim());
+        };
+
+        process.stdin.once('data', onData);
+    });
 };
 
 /** 
