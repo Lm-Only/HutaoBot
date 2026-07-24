@@ -1,6 +1,6 @@
 {
   "name": "@img/sharp-libvips-linux-x64",
-  "version": "1.2.4",
+  "version": "1.3.2",
   "description": "Prebuilt libvips and dependencies for use with sharp on Linux (glibc) x64",
   "author": "Lovell Fuller <npm@lovell.info>",
   "homepage": "https://sharp.pixelplumbing.com",
@@ -25,10 +25,11 @@
   "exports": {
     "./lib": "./lib/index.js",
     "./package": "./package.json",
-    "./versions": "./versions.json"
+    "./versions": "./versions.json",
+    "./binary": "./lib/libvips-cpp.so.8.18.3"
   },
   "config": {
-    "glibc": ">=2.26"
+    "glibc": ">=2.28"
   },
   "os": [
     "linux"

@@ -1,5 +1,6 @@
 import platform from '../platform/index.js';
 import utils from '../utils.js';
+import AxiosError from '../core/AxiosError.js';
 import isURLSameOrigin from './isURLSameOrigin.js';
 import cookies from './cookies.js';
 import buildFullPath from '../core/buildFullPath.js';
@@ -15,7 +16,7 @@ function setFormDataHeaders(headers, formHeaders, policy) {
     return;
   }
 
-  Object.entries(formHeaders).forEach(([key, val]) => {
+  Object.entries(formHeaders || {}).forEach(([key, val]) => {
     if (FORM_DATA_CONTENT_HEADERS.includes(key.toLowerCase())) {
       headers.set(key, val);
     }
@@ -35,7 +36,7 @@ const encodeUTF8 = (str) =>
     String.fromCharCode(parseInt(hex, 16))
   );
 
-export default (config) => {
+function resolveConfig(config) {
   const newConfig = mergeConfig({}, config);
 
   // Read only own properties to prevent prototype pollution gadgets
@@ -55,23 +56,33 @@ export default (config) => {
   newConfig.headers = headers = AxiosHeaders.from(headers);
 
   newConfig.url = buildURL(
-    buildFullPath(baseURL, url, allowAbsoluteUrls),
-    config.params,
-    config.paramsSerializer
+    buildFullPath(baseURL, url, allowAbsoluteUrls, newConfig),
+    own('params'),
+    own('paramsSerializer')
   );
 
   // HTTP basic authentication
   if (auth) {
-    headers.set(
-      'Authorization',
-      'Basic ' +
-        btoa((auth.username || '') + ':' + (auth.password ? encodeUTF8(auth.password) : ''))
-    );
+    const username = utils.getSafeProp(auth, 'username') || '';
+    const password = utils.getSafeProp(auth, 'password') || '';
+
+    try {
+      headers.set(
+        'Authorization',
+        'Basic ' + btoa(username + ':' + (password ? encodeUTF8(password) : ''))
+      );
+    } catch (e) {
+      throw AxiosError.from(e, AxiosError.ERR_BAD_OPTION_VALUE, config);
+    }
   }
 
   if (utils.isFormData(data)) {
-    if (platform.hasStandardBrowserEnv || platform.hasStandardBrowserWebWorkerEnv) {
-      headers.setContentType(undefined); // browser handles it
+    if (
+      platform.hasStandardBrowserEnv ||
+      platform.hasStandardBrowserWebWorkerEnv ||
+      utils.isReactNative(data)
+    ) {
+      headers.setContentType(undefined); // browser/web worker/RN handles it
     } else if (utils.isFunction(data.getHeaders)) {
       // Node.js FormData (like form-data package)
       setFormDataHeaders(headers, data.getHeaders(), own('formDataHeaderPolicy'));
@@ -103,4 +114,6 @@ export default (config) => {
   }
 
   return newConfig;
-};
+}
+
+export default resolveConfig;
