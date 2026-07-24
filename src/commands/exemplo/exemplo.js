@@ -168,7 +168,108 @@ hutao.setCommand({
 });
 
 /**
- * PARAMS_FOR_AI
+ * ONLY_FOR_AI
+ * 
+ *
  * 
  * @params hutao.sendImage and Video = (id, link/path, text, quoted?)
+ * @params hutao.sendMessage (classic baileys)
+ * - All keys: sendMessage, sendVideo, sendImage and setcommand
+ * 
+ * IMPORTANT - TREE Hutao files and directory
+ * 
+ * 
+├── assets
+│       ├── global
+│       │       ├── casamento.json {Array} commands: ['MinhaDupla']
+                        @param { usu1: "userNumber1@s.whatsapp.net", usu2: "onlyUserNumber2", casados: Boolean, idgp: from, date: "DD/MM/YYYY", tempo: "YYYY-MM-DDTHH:MM:SS:MS-03:00" } 
+                        @param { usu1: "userNumber2@s.whatsapp.net", usu2: "onlyUserNumber1", casados: Boolean, idgp: from, date: "DD/MM/YYYY", tempo: "YYYY-MM-DDTHH:MM:SS:MS-03:00"  } 
+│       │       ├── infocmd.json {Array} commands: ['infocmd <param>']
+                        @param { command: "command_name", info: "about" }
+│       │       └── pedido.json {Array} ref=casamento.json
+                        @param { id: "mentioned_user@s.whatsapp.net", pedido: "onlySenderNumber", idgp: "from|groupid" }
+│       ├── groups
+│       │       ├── TMGP.json {Array}
+│       │       ├── activation
+│       │       ├── aluguel.json
+│       │       ├── anotar.json
+│       │       ├── avisos.json
+│       │       ├── countmsg.json
+│       │       ├── gold.json
+│       │       ├── muted.json
+│       │       └── openGroup.json
+│       ├── media
+│       │       ├── audios
+│       │       │       ├── bomdia.mp3
+│       │       │       └── index.js
+│       │       ├── closegp-opengp
+│       │       ├── images
+│       │       │       ├── imglinks.json
+│       │       │       ├── index.js
+│       │       │       ├── logo.jpg
+│       │       │       └── logo.json {Object}
+                            @param { imgmenu: Path or Url } default path
+│       │       └── stickers
+│       ├── settings
+│       │       ├── global.json @param { verificado: boolean, autoread: boolean, antipv1: boolean, buttons: boolean, antipv2: boolean, antipv3: boolean,Desligar_Bot: boolean,DeleteMessages: boolean,Aluguel_Global: boolean,anticall: boolean,console_off: boolean, whitelist: object, API_KEY_GEMINI: string, listanegra_global: object, blockcmd_global: object, dono1: string, dono2: string, dono3: string, dono4: string, dono5: string, dono6: string, comandos_premium: object, LimitCommand: string, msganticall: string, msgantipv: string, msgantipv2: string, API_KEY: string }
+│       │       ├── settings.yaml ref=./src/utils/generics/js
+│       │       └── system.json
+│       ├── tabela
+│       └── users
+│           ├── banned.json
+│           ├── family.json
+│           ├── jogodavelha.json
+│           ├── premium.json
+│           ├── rgfigus.json
+│           └── take.json
+├── package.json
+├── qrcode-reset.sh
+├── src
+│       ├── commands
+│       │       ├── adms
+│       │       ├── donos
+│       │       ├── exemplo
+│       │       │       ├── README.md
+│       │       │       └── exemplo.js
+│       │       ├── global
+│       │       ├── membros
+│       │       ├── settings.js
+│       │       └── system.js
+│       ├── defaults
+│       │       ├── baileys-version.json
+│       │       └── index.js
+│       ├── handler.js
+│       ├── menus
+│       │       ├── info.js
+│       │       ├── menu-admin.txt
+│       │       ├── menu-animes.txt
+│       │       ├── menu-baixar.txt
+│       │       ├── menu-brincadeiras.txt
+│       │       ├── menu-figurinha.txt
+│       │       ├── menu-logos.txt
+│       │       ├── menu-premium.txt
+│       │       ├── menu-principal.txt
+│       │       ├── menu-proprietario.txt
+│       │       ├── menu-rpg.txt
+│       │       ├── menu.js {Loader}
+│       │       └── tabela.js
+│       ├── messages
+│       │       ├── autoresposta.js
+│       │       ├── conselhos.js
+│       │       ├── index.js
+│       │       ├── messages.js
+│       │       ├── system.js
+│       │       └── tools.js
+│       └── utils
+│           └── generics.js (setting, arrayRandom, WRT_FL(path, jsonParse)) ref=PARAM_GENERICS
+└── start.sh
+
+24 directories, 57 files
+
+* PARAM_GENRICS:
+
+  WRT_FL (write file) @param (fsPath), (jsonParser), (formater? <number>) -> writeFile with Json stringify and formater
+  arrayRandom (random value from an array) @param (array) -> returns a random value 
+  setting @param { prefixo: String, NomeDoBot: String, NickDono: String, NumeroDoDono: String, TOKEN_YUTA: String (requires TOKEN from yuta-apis.xyz)}
+
  */
