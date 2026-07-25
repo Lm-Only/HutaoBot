@@ -30,14 +30,9 @@
 </p>
 
 ---
-
-## ⚠️ ATENÇÃO!!
+## ⚠️ ATENÇÃO
 > [!IMPORTANT]
-> -> **Para acessar o bot,** é necessário adquirir uma key.
->
-> -> Por apenas **35,00R$** você recebe uma chave de acesso, que permite **utilização do bot.**
-> 
-> -> **Inclui uma mensalidade de 2,50R$ [__Fale Conosco__](https://wa.me/559284828701?text=Comprar%20HutaoBot-MD%20V10.0.0)**
+> **Para acessar o bot, é necessário adquirir uma key. Por apenas 35,00R$ você recebe uma chave de acesso, que permite utilização do bot. Inclui uma mensalidade de 2,50R$ [__Fale Conosco__](https://wa.me/559284828701?text=Comprar%20HutaoBot-MD%20V10.0.0)**
 
 > • **A mensalidade garante que seu bot esteja sempre atualizado.**
 >
