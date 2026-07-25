@@ -1,5 +1,5 @@
 # 📚 Centro de Documentação - HutaoBot V10.0.0
-
+> [!IMPORTANT]
 > **Bem-vindo!** Este é o guia completo para entender e personalizar a **HutaoBot-MD V10.0.0** da forma que preferir. 
 > Aqui você encontrará tudo que precisa saber sobre **configurações**, **criação de comandos** e **funcionalidades** no bot.
 
