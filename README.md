@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=C60404&center=falso&vCenter=falso&lines=𝑯𝒖𝒕𝒂𝒐𝑩𝒐𝒕+✿+V10.0.0✓;𝐂𝐑𝐈𝐀𝐃𝐀+𝐏𝐎𝐑+𝐋𝐌+𝐎𝐍𝐋𝐘" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=C60404&center=falso&vCenter=falso&lines=𝑯𝒖𝒕𝒂𝒐𝑩𝒐𝒕+✿+V10.0.0✓;𝐂𝐑𝐈𝐀𝐃𝐀+𝐏𝐎𝐑+𝐋𝐌+𝐎𝐍𝐋𝐘;𝐁𝐎𝐓+𝐏𝐑𝐄𝐌𝐈𝐔𝐌" alt="Typing SVG">
 
 <h1 align="center">
 <p>
