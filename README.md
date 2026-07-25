@@ -183,18 +183,64 @@ cd /sdcard/HutaoBot && npm start up
 | 🌟 Novas brincadeiras        | Mais brincadeiras para o bot.
 | ✍️ +Editar mensagens      | Mais possibilidades de editar mensagens.
 
-## Atenção 
+## Regras a seguir
 
-- Use o bot moderadamente
-- Evite compartilhar o projeto 
-- Proibido venda de terceiros
-> Estaremos sempre de olho em qualquer ação inapropriada
+- Usar o bot moderadamente
+- Não compartilhe sua key
+- Não revenda o arquivo
+> Estamos sempre monitorando o bot
 
-## Contributors
+------------------
 
-- **Update**: Canal onde será postado updates da HutaoBot-MD. ✨
+<details>
+  <summary>
+  
+## Contributors 👑  
+  </summary>
+      <div align="center">
+         <br>
+            <a href="https://github.com/Nk-Petrov">
+            <img src="https://github.com/Nk-Petrov.png?size=80" width="80" style="border-radius:50%;">
+          </a>
+          <a href="https://github.com/dylanModz">
+            <img src="https://github.com/dylanModz.png?size=80" width="80" style="border-radius:50%;">
+          </a>
+         </br>
+        <br>
+          <a href="https://github.com/Nk-Petrov">
+            <img src="https://img.shields.io/badge/Nk Petrov-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://github.com/dylanModz">
+            <img src="https://img.shields.io/badge/DylanModz-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </br>
+      </div>
+</details>
 
-* [__Canal__](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
+## DESENVOLVEDOR 👨🏻‍💻
+<div align="center">
+  <table>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 15px;">
+        <img src="https://github.com/Lm-Only.png?size=120" width="120" height="120" style="border: 3px solid #8A2BE2; border-radius: 50%;">
+      </td>
+      <td align="left" valign="middle">
+        <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
+          Lm Only
+        </h2>
+        <p style="margin: 5px 0; color: #cfcfcf; font-family: monospace; font-size: 14px;">
+  Desenvolvedor Principal.
+        </p>
+        <p style="margin: 8px 0 0 0;">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## LICENSE
