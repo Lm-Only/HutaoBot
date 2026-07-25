@@ -19,10 +19,13 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
    <a href="https://yuta-apis.xyz">
-    <img src="https://img.shields.io/badge/API-YUTA-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img src="https://img.shields.io/badge/API YUTA-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   <a href="https://youtube.com/@hutaobotoficial">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+    <a href="https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z">
+    <img src="https://img.shields.io/badge/CANAL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
