@@ -39,9 +39,9 @@
 > 
 > -> **Inclui uma mensalidade de 2,50R$ [__Fale Conosco__](https://wa.me/559284828701?text=Comprar%20HutaoBot-MD%20V10.0.0)**
 
-> • **O pagamento mensal garante que seu bot esteja sempre atualizado.**
+> • **A mensalidade garante que seu bot esteja sempre atualizado.**
 >
-> • **Ao Comprar o Bot de Instalar, assista o [__Tutorial__](https://www.youtube.com/watch?v=RiWTirsWTeg) de Como usar a [__API do Yuta__](yuta-apis.xyz/)**
+> • **Ao Comprar e Instalar o bot, assista o [__Tutorial__](https://www.youtube.com/watch?v=RiWTirsWTeg) de Como usar a [__API do Yuta__](yuta-apis.xyz/)**
 
 ---
 
