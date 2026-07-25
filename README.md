@@ -196,3 +196,8 @@ cd /sdcard/HutaoBot && npm start up
 
 * [__Canal__](https://whatsapp.com/channel/0029VbBvdevBKfhuvo5na32z)
 
+
+## LICENSE
+
+* [__Apache-2.0__](https://github.com/Lm-Only/HutaoBot/blob/main/LICENSE)
+
