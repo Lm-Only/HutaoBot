@@ -38,7 +38,7 @@
 
 > • **O pagamento mensal garante que seu bot esteja sempre atualizado.**
 >
-> **Ao Comprar o Bot de Instalar, assista o [__Tutorial__](https://www.youtube.com/watch?v=RiWTirsWTeg) de Como usar a [__API do Yuta__](yuta-apis.xyz/)**
+> • **Ao Comprar o Bot de Instalar, assista o [__Tutorial__](https://www.youtube.com/watch?v=RiWTirsWTeg) de Como usar a [__API do Yuta__](yuta-apis.xyz/)**
 
 ---
 
@@ -49,18 +49,18 @@
 
 </summary>
 
-**Você precisa ter um login na sua Hospedagem e um Servidor Criado**
+• **Você precisa ter um login na sua Hospedagem e um Servidor Criado**
 
 ## Passos simples: ✨️
 
 > Dependendo da sua Hospedagem, pode conter Diferenças entre Parâmetros, Nomes e Botões.
 ------------------
 1 - PASSO: 💖
-> Baixe o arquivo ZIP do bot
+> Baixe o arquivo ZIP do bot.
 > [Baixe aqui](https://github.com/Lm-Only/HutaoBot/archive/refs/heads/main.zip)
 ------------------
 2 - PASSO: 💖
-> • Entre no seu servidor na hospedagem, procure a opção de **upload** e procure pelo arquivo baixado. (geralmente no celular fica na pasta **downloads** com o nome **HutaoBot-MD-main.zip**).
+> • Entre no seu servidor na hospedagem, procure a opção "**upload**" e procure pelo arquivo baixado. (geralmente no celular fica na pasta **Downloads** com o nome **HutaoBot-MD-main.zip**).
 ------------------
 3 - PASSO: 💖
 > • Após selecionar o arquivo, é necessário extrair corretamente. (na maioria das vezes tem que mover o todos os arquivos de dentro da pasta HutaoBot-MD-main pra fora após extrair)
@@ -80,7 +80,7 @@
 
 </summary>
 
-**Caso Não tenha o termux instalado**
+• **Caso Não tenha o termux instalado**
 [Instale aqui](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file).
 
 ## Executando comandos básicos: ✨
@@ -118,6 +118,7 @@ cd /sdcard && git clone https://github.com/Lm-Only/HutaoBot
 cd /sdcard/HutaoBot && npm start
 ````
 > Use-o para toda vez que for ligar o bot!
+> 
 > Muita atenção na hora de colar a key se for primeira inicialização.
 ------------------
 COMANDO ADICIONAL: 🌸
@@ -126,6 +127,8 @@ cd /sdcard/HutaoBot && npm start up
 ````
 > **Atualizar automaticamente**:
 > Use esse comando quando houver atualizações disponíveis.
+>
+> **Ou** use **!update check** no WhatsApp do bot.
 ------------------
 
 </details>
