@@ -44,7 +44,6 @@
 > • **Ao Comprar e Instalar o bot, assista o [__Tutorial__](https://www.youtube.com/watch?v=RiWTirsWTeg) de Como usar a [__API do Yuta__](yuta-apis.xyz/)**
 
 ---
-
 <details>
 <summary>
 
@@ -136,6 +135,8 @@ cd /sdcard/HutaoBot && npm start up
 
 </details>
 
+> [!CAUTION]
+> **Não garantimos o funcionamento perfeito no Termux, pois ele pode ser instável. Além disso, o funcionamento depende da sua conexão com a Internet e o celular precisa permanecer sempre ativo. Recomendamos utilizá-lo apenas para testes e, posteriormente, migrar para uma hospedagem de qualidade.**
 ---
 
 ## TUTORIAIS - YouTube 🌟
