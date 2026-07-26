@@ -13,7 +13,8 @@ cleanFilesTemp() {
     ./SECURITY.md \
     ./LICENSE \
     ./CONTRIBUTING.md \
-    ./CODE_OF_CONDUCT.md
+    ./CODE_OF_CONDUCT.md \
+    ./github
 }
 
 updateBot() {
