@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=C60404&center=falso&vCenter=falso&lines=𝑯𝒖𝒕𝒂𝒐𝑩𝒐𝒕+✿+V10.0.0✓;𝐂𝐑𝐈𝐀𝐃𝐀+𝐏𝐎𝐑+𝐋𝐌+𝐎𝐍𝐋𝐘;𝐁𝐎𝐓+𝐏𝐑𝐄𝐌𝐈𝐔𝐌" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=C60404&center=falso&vCenter=falso&lines=𝑯𝒖𝒕𝒂𝒐𝑩𝒐𝒕+✿+V10.0.0✓;𝐂𝐑𝐈𝐀𝐃𝐀+𝐏𝐎𝐑+𝐋𝐌+𝐎𝐍𝐋𝐘;𝐁𝐎𝐓+𝐏𝐑𝐄𝐌𝐈𝐔𝐌;✰✰✰✰✰" alt="Typing SVG">
 
 <h1 align="center">
 <p>
@@ -34,9 +34,16 @@
 > [!IMPORTANT]
 > **Para acessar o bot, é necessário adquirir uma key. Por apenas 35,00R$ você recebe uma chave de acesso, que permite utilização do bot. Inclui uma mensalidade de 2,50R$ [__Fale Conosco__](https://wa.me/559284828701?text=Comprar%20HutaoBot-MD%20V10.0.0)**
 
+<details>
+  <summary>
+    <b>Ler mais...</b>
+  </summary>  
+  
 > • **A mensalidade garante que seu bot esteja sempre atualizado.**
 >
 > • **Ao Comprar e Instalar o bot, assista o [__Tutorial__](https://www.youtube.com/watch?v=RiWTirsWTeg) de Como usar a [__API do Yuta__](yuta-apis.xyz/)**
+
+</details>
 
 ---
 <details>
