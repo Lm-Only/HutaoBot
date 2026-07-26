@@ -24,6 +24,7 @@
 ╎
 ┏╾ׁ═╼･ﾟ♡ﾟ･｡🍸｡･ﾟ♡ﾟ･╾ᷓ═╼┓
 ┃╭╾ׁ═╼〔 • ✿ • 〕╾ׁ═╼╮
+┃╎୨୧ 🍸 {prefixo}HD _novo_
 ┃╎୨୧ 🍸 {prefixo}ModoIA _novo_
 ┃╎୨୧ 🍸 {prefixo}NoPrefix _novo_
 ┃╎୨୧ 🍸 {prefixo}RgCmd _novo_
@@ -118,6 +119,8 @@
 ╎
 ┏╾ׁ═╼･ﾟ♡ﾟ･｡🎀｡･ﾟ♡ﾟ･╾ᷓ═╼┓
 ┃╭╾ׁ═╼〔 • ✧ • 〕╾ׁ═╼╮
+┃╎୨୧ ⚘ {prefixo}Blown
+┃╎୨୧ ⚘ {prefixo}Nightcore
 ┃╎୨୧ ⚘ {prefixo}Grave 
 ┃╎୨୧ ⚘ {prefixo}Grave2 
 ┃╎୨୧ ⚘ {prefixo}Esquilo 
