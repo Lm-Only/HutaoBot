@@ -142,22 +142,21 @@ cd /sdcard/HutaoBot && npm start up
 ---
 
 ## TUTORIAIS - YouTube 🌟
-
-<details>
-  <summary>
-    <b>Ver lista de tutoriais...</b>
-  </summary>
-  
  * [__Tutorial de como instalar__](https://youtu.be/UEayN52fsco)
  * [__Tutorial de como atualizar__](https://youtu.be/7B5EkX5PFFk)
  * [__Tutorial de como de Como usar a API do Yuta__](https://www.youtube.com/watch?v=RiWTirsWTeg)
- * [__Tutorial de como Editar o Auto Resposta__](https://youtu.be/VjOEOy4mrUc)
+ * [__Documentação Completa - Centro de Documentação HutaoBot__](https://github.com/Lm-Only/HutaoBot/blob/main/src/commands/exemplo/README.md)
+
+<details>
+  <summary>
+    <b>Ver Mais...</b>
+  </summary>
+
  * [__Tutorial de como criar Comandos por IA__](https://m.youtube.com/watch?v=vDZJRaIWpa4)
- *  [__Documentação Completa - Centro de Documentação HutaoBot__](https://github.com/Lm-Only/HutaoBot/blob/main/src/commands/exemplo/README.md)
-> Veja mais em nosso canal do YouTube [__Hutao Bot Oficial__](https://youtube.com/@hutaobotoficial)
-  
+ * [__Tutorial de como Editar o Auto Resposta__](https://youtu.be/VjOEOy4mrUc)
 </details>
 
+> Veja mais em nosso canal do YouTube [__Hutao Bot Oficial__](https://youtube.com/@hutaobotoficial)
 ------------------
 
 ### ⚠️ Requisitos
