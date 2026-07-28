@@ -113,6 +113,8 @@ Para criar um comando, você **precisa** de:
 3. **Usar** `hutao.setCommand({ ... })`
 4. **Definir** `commands`, `execute` e opcionalmente `name` e `description`
 
+**Para criar comandos com IA, assista o [__Tutorial__](https://m.youtube.com/watch?v=vDZJRaIWpa4) no YouTube**
+
 ### 🔧 Estrutura Básica
 
 ```javascript
