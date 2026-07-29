@@ -1,3 +1,4 @@
+import type Long from 'long';
 import { proto } from '../../WAProto/index.js';
 import type { BaileysEventEmitter, BaileysEventMap, ConnectionState, WACallUpdateType, WAMessageKey, WAVersion } from '../Types/index.js';
 import { type BinaryNode } from '../WABinary/index.js';

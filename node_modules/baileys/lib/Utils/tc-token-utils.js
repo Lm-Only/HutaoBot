@@ -102,7 +102,8 @@ export async function buildTcTokenFromJid({ authState, jid, baseContent = [], ge
         const tcTokenData = await authState.keys.get('tctoken', [storageJid]);
         const entry = tcTokenData?.[storageJid];
         const tcTokenBuffer = entry?.token;
-        if (!tcTokenBuffer?.length || isTcTokenExpired(entry?.timestamp)) {
+        const timestamp = entry?.timestamp;
+        if (!tcTokenBuffer?.length || timestamp === undefined || isTcTokenExpired(timestamp)) {
             if (tcTokenBuffer) {
                 // Preserve senderTimestamp so shouldSendNewTcToken() keeps its dedupe state
                 // after we drop the unusable peer token. Only wipe the record entirely when
@@ -116,7 +117,7 @@ export async function buildTcTokenFromJid({ authState, jid, baseContent = [], ge
         }
         baseContent.push({
             tag: 'tctoken',
-            attrs: {},
+            attrs: { t: String(timestamp) },
             content: tcTokenBuffer
         });
         return baseContent;

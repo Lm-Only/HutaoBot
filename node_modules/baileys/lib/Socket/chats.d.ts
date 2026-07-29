@@ -5,6 +5,7 @@ import type { QuickReplyAction } from '../Types/Bussines.js';
 import type { LabelActionBody } from '../Types/Label.js';
 import { type BinaryNode } from '../WABinary/index.js';
 import { USyncQuery } from '../WAUSync/index.js';
+export declare const buildProfilePictureQueryContent: (type: "preview" | "image", tcTokenContent?: BinaryNode[]) => BinaryNode[];
 export declare const makeChatsSocket: (config: SocketConfig) => {
     serverProps: {
         /** AB prop 10518: gate tctoken on 1:1 messages. Default true (safe: avoids 463). */

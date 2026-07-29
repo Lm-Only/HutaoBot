@@ -11,6 +11,13 @@ import { buildTcTokenFromJid } from '../Utils/tc-token-utils.js';
 import { getBinaryNodeChild, getBinaryNodeChildren, isHostedLidUser, isHostedPnUser, isLidUser, isPnUser, jidDecode, jidNormalizedUser, reduceBinaryNodeToDictionary, S_WHATSAPP_NET } from '../WABinary/index.js';
 import { USyncQuery, USyncUser } from '../WAUSync/index.js';
 import { makeSocket } from './socket.js';
+export const buildProfilePictureQueryContent = (type, tcTokenContent) => {
+    const picture = { tag: 'picture', attrs: { type, query: 'url' } };
+    if (tcTokenContent?.length) {
+        picture.content = tcTokenContent;
+    }
+    return [picture];
+};
 export const makeChatsSocket = (config) => {
     const { logger, markOnlineOnConnect, fireInitQueries, appStateMacVerification, shouldIgnoreJid, shouldSyncHistoryMessage, getMessage } = config;
     const sock = makeSocket(config);
@@ -546,7 +553,6 @@ export const makeChatsSocket = (config) => {
      * type = "image for the high res picture"
      */
     const profilePictureUrl = async (jid, type = 'preview', timeoutMs) => {
-        const baseContent = [{ tag: 'picture', attrs: { type, query: 'url' } }];
         // WA Web only includes tctoken for user JIDs (not groups/newsletters)
         // and never for own profile pic (Chat model for self has no tcToken).
         // Including tctoken for own JID causes the server to never respond.
@@ -554,12 +560,11 @@ export const makeChatsSocket = (config) => {
         const isUserJid = isPnUser(normalizedJid) || isLidUser(normalizedJid);
         const me = authState.creds.me;
         const isSelf = me && (normalizedJid === jidNormalizedUser(me.id) || (me.lid && normalizedJid === jidNormalizedUser(me.lid)));
-        let content = baseContent;
+        let tcTokenContent;
         if (serverProps.profilePicPrivacyToken && isUserJid && !isSelf) {
-            content = await buildTcTokenFromJid({
+            tcTokenContent = await buildTcTokenFromJid({
                 authState,
                 jid: normalizedJid,
-                baseContent,
                 getLIDForPN
             });
         }
@@ -572,7 +577,7 @@ export const makeChatsSocket = (config) => {
                 type: 'get',
                 xmlns: 'w:profile:picture'
             },
-            content
+            content: buildProfilePictureQueryContent(type, tcTokenContent)
         }, timeoutMs);
         const child = getBinaryNodeChild(result, 'picture');
         return child?.attrs?.url;

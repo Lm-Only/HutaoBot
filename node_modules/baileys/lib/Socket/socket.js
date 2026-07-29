@@ -27,6 +27,9 @@ export const makeSocket = (config) => {
     if (printQRInTerminal) {
         logger.warn({}, '⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.');
     }
+    if (browser[1].toLocaleLowerCase().includes('android')) {
+        logger.warn('⚠️ Using the Android browser is experimental and may lead to unexpected behavior. Use at your own risk.');
+    }
     const syncDisabled = PROCESSABLE_HISTORY_TYPES.map(syncType => config.shouldSyncHistoryMessage({ syncType })).filter(x => x === false)
         .length === PROCESSABLE_HISTORY_TYPES.length;
     if (syncDisabled) {
