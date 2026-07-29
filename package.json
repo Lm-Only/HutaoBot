@@ -55,5 +55,5 @@
     "engines": {
         "node": ">=22.8.0"
     },
-    "updates": 3
+    "updates": 37
 }
