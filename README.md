@@ -217,14 +217,14 @@ cd /sdcard/HutaoBot && npm start up
             <img src="https://github.com/Nk-Petrov.png?size=80" width="80" style="border-radius:50%;">
           </a>
           <a href="https://github.com/dylanModz">
-            <img src="https://github.com/dylanModz.png?size=80" width="80" style="border-radius:50%;">
+            <img src="https://github.com/dylan-Modz.png?size=80" width="80" style="border-radius:50%;">
           </a>
          </br>
         <br>
           <a href="https://github.com/Nk-Petrov">
             <img src="https://img.shields.io/badge/Nk Petrov-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
           </a>
-          <a href="https://github.com/dylanModz">
+          <a href="https://github.com/dylan-Modz">
             <img src="https://img.shields.io/badge/DylanModz-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </br>
