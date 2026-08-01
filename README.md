@@ -109,7 +109,7 @@ pkg upgrade -y && pkg update -y
 ------------------
 3 - COMANDO: 🌸
 ````bash
-pkg install -y ffmpeg nodejs-lts wget tesseract git
+pkg install -y ffmpeg nodejs-lts git
 ````
 4 - COMANDO: 🌸
 ````bash
