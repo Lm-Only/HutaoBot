@@ -1,0 +1,17 @@
+services:
+  hutaobot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hutaobot-v10
+    restart: unless-stopped
+    stdin_open: true
+    tty: true
+    environment:
+      NODE_ENV: production
+      TZ: America/Sao_Paulo
+    volumes:
+      - ./assets/qr-code:/app/assets/qr-code
+      - ./assets/users:/app/assets/users
+      - ./assets/settings:/app/assets/settings
+    command: npm start

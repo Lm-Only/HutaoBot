@@ -14,6 +14,7 @@ cleanFilesTemp() {
     ./LICENSE \
     ./CONTRIBUTING.md \
     ./CODE_OF_CONDUCT.md \
+    ./CLAUDE.md \
     ./github
 }
 
