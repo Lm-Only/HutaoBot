@@ -4,6 +4,9 @@
 ╎
 ┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎୨୧ 🩸 {prefixo}Settokenmp <token|0>
+┃╎୨୧ 🩸 {prefixo}Chavepix <chave>
+┃╎୨୧ 🩸 {prefixo}Liberar <número>
 ┃╎୨୧ 🩸 {prefixo}ConfigurarBot "_Como Configurar_"
 ┃╎୨୧ 🩸 {prefixo}ModoIA
 ┃╎୨୧ 🩸 {prefixo}RgCmd

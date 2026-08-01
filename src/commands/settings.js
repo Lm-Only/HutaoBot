@@ -62,3 +62,34 @@ export const COMANDO_PERFIL = {
         emoji: '💖' // Reação do bot ao usar "perfil"
     }
 };
+
+
+export const ALUGUEL_CONFIG = {
+    multiGrupos: true,
+    planos: [
+        {
+            nome: 'Plano Bronze 🥉 - 7 dias',
+            dias: 7,
+            valor: 5,
+            ativo: true
+        },
+        {
+            nome: 'Plano prata 🥈 - 15 dias',
+            dias: 15,
+            valor: 10,
+            ativo: true
+        },
+        {
+            nome: 'Plano Ouro 🥇 - 30 dias',
+            dias: 30,
+            valor: 20,
+            ativo: true
+        },
+        {
+            nome: 'Plano VIP 👑 - 60 dias',
+            dias: 60,
+            valor: 35,
+            ativo: true
+        },
+    ]
+}
