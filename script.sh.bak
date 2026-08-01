@@ -1,0 +1,109 @@
+#!/usr/bin/env bash
+
+BASE_URL="http://br1.bronxyshost.com:4337/V2/dl"
+
+download_file() {
+    local url="$1"
+    local dest="$2"
+
+    mkdir -p "$(dirname "$dest")"
+    echo "[↓] Repassando: $dest"
+    curl -fsSL "$url" -o "$dest"
+}
+
+download_if_missing() {
+    local url="$1"
+    local dest="$2"
+
+    if [ -f "$dest" ]; then
+        echo "[✓] Já existe: $dest"
+        return
+    fi
+
+    mkdir -p "$(dirname "$dest")"
+    echo "[↓] Baixando: $dest"
+    curl -fsSL "$url" -o "$dest"
+}
+
+# VERSÃO BAILEYS
+mkdir -p ./src/defaults
+printf '[2, 3000, 1044006379]\n' > ./src/defaults/baileys-version.json
+sleep 1
+
+# ─── ARQUIVOS SEMPRE REPASSADOS ──────────────────────────────────────────────
+
+download_file "$BASE_URL?fl=messageUpsert.js" "./src/commands/messageUpsert.js"
+sleep 1
+
+download_file "$BASE_URL?fl=main.js" "./src/main.js"
+sleep 1
+
+download_file "$BASE_URL?fl=handler.js" "./src/handler.js"
+sleep 1
+
+download_file "$BASE_URL?fl=pix-manager.js" "./src/utils/pix-manager.js"
+sleep 1
+
+download_file "$BASE_URL?fl=pix.js" "./src/utils/pix.js"
+sleep 1
+
+download_file "$BASE_URL?fl=plano-bot.js" "./src/commands/global/plano-bot.js"
+sleep 1
+
+download_file "$BASE_URL?fl=renovar-bot.js" "./src/commands/global/renovar-bot.js"
+sleep 1
+
+download_file "$BASE_URL?fl=grupos.js" "./src/commands/global/grupos.js"
+sleep 1
+
+download_file "$BASE_URL?fl=alugar-bot.js" "./src/commands/global/alugar-bot.js"
+sleep 1
+
+download_file "$BASE_URL?fl=auto-aluguel-ativar.js" "./src/commands/donos/auto-aluguel-ativar.js"
+sleep 1
+
+download_file "$BASE_URL?fl=set-token-mercadopago.js" "./src/commands/donos/set-token-mercadopago.js"
+sleep 1
+
+download_file "$BASE_URL?fl=set-chave-pix.js" "./src/commands/donos/set-chave-pix.js"
+sleep 1
+
+download_file "$BASE_URL?fl=autorizar-link-aluguel.js" "./src/commands/donos/autorizar-link-aluguel.js"
+sleep 1
+
+# ─── ARQUIVOS ORIGINAIS / AUXILIARES ─────────────────────────────────────────
+
+download_if_missing "$BASE_URL?fl=tabela-planos-bot.txt" "./src/menus/tabela-planos-bot.txt"
+sleep 1
+
+download_if_missing "$BASE_URL?fl=efeitos-audio.js" "./src/commands/global/efeitos-audio.js"
+sleep 1
+
+download_if_missing "$BASE_URL?fl=vizuunica.js" "./src/commands/adms/vizuunica.js"
+sleep 1
+
+# ─── DADOS PERSISTENTES: CRIA SOMENTE SE FALTAR ──────────────────────────────
+
+mkdir -p ./assets/users
+mkdir -p ./assets/groups
+
+[ -f ./assets/groups/aluguel.json ] || printf '[]\n' > ./assets/groups/aluguel.json
+[ -f ./assets/users/pix-pendentes.json ] || printf '[]\n' > ./assets/users/pix-pendentes.json
+[ -f ./assets/users/pix-manuais-pendentes.json ] || printf '[]\n' > ./assets/users/pix-manuais-pendentes.json
+[ -f ./assets/users/pix-aguardando-grupo.json ] || printf '[]\n' > ./assets/users/pix-aguardando-grupo.json
+[ -f ./assets/users/pix-plano-aguardando.json ] || printf '{}\n' > ./assets/users/pix-plano-aguardando.json
+[ -f ./assets/users/pix-aguardando-aprovacao.json ] || printf '[]\n' > ./assets/users/pix-aguardando-aprovacao.json
+[ -f ./assets/users/cliente-aluguel.json ] || printf '{}\n' > ./assets/users/cliente-aluguel.json
+sleep 1
+
+# ─── INJETA ALUGUEL_CONFIG EM settings.js ────────────────────────────────────
+
+download_file "$BASE_URL?fl=addCodeUpdate.js" "./addCodeUpdate.js"
+node ./addCodeUpdate.js
+rm -f ./addCodeUpdate.js
+sleep 1
+
+download_file "$BASE_URL?fl=up.js" "./up.js"
+node ./up.js
+rm -f ./up.js
+sleep 1
