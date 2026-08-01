@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: hutaobot-v10
+    container_name: hutaobot
     restart: unless-stopped
     stdin_open: true
     tty: true
