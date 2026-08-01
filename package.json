@@ -17,7 +17,8 @@
     "keywords": [
         "hutao",
         "whatsapp-bot",
-        "nodejs"
+        "nodejs",
+        "JavaScript"
     ],
     "author": "Lm Only",
     "license": "Apache-2.0",
@@ -55,5 +56,5 @@
     "engines": {
         "node": ">=22.8.0"
     },
-    "updates": 37
+    "updates": 47
 }
