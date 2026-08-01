@@ -15,12 +15,10 @@ COPY package.json package-lock.json ./
 RUN npm ci --omit=dev && npm cache clean --force
 
 COPY . .
-
 RUN mkdir -p /app/assets/qr-code /app/assets/users \
   && chown -R node:node /app
 
 USER node
-
 ENV NODE_ENV=production
 ENV TZ=America/Sao_Paulo
 
