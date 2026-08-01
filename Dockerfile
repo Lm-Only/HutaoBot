@@ -1,3 +1,5 @@
+# docker para config direta
+
 FROM node:22-bookworm-slim
 
 RUN apt-get update \
@@ -12,15 +14,19 @@ RUN apt-get update \
 WORKDIR /app
 
 COPY package.json package-lock.json ./
+
 RUN npm ci --omit=dev && npm cache clean --force
 
 COPY . .
-RUN mkdir -p /app/assets/qr-code /app/assets/users \
-  && chown -R node:node /app
+
+RUN mkdir -p /app/assets/qr-code /app/assets/users && chown -R node:node /app
 
 USER node
+
 ENV NODE_ENV=production
+
 ENV TZ=America/Sao_Paulo
 
 ENTRYPOINT ["tini", "--"]
+
 CMD ["npm", "start"]
