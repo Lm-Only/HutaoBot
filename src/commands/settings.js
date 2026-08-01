@@ -63,16 +63,25 @@ export const COMANDO_PERFIL = {
     }
 };
 
-
+/**
+ * Este é o sistema de configuração do Aluguel
+ * Edite os preços para quando a pessoa usar <prefixo>plano, o bot navegue entre os planos
+ * OBS: os planos que você por na tabela é apenas visual
+ * O bot vai pegar os preços daqui
+ * 
+ * Tabela em: "./src/menus/tabela-planos-bot.txt"
+ */
 export const ALUGUEL_CONFIG = {
     multiGrupos: true,
     planos: [
         {
-            nome: 'Plano Bronze 🥉 - 7 dias',
-            dias: 7,
-            valor: 5,
-            ativo: true
+            nome: 'Plano Bronze 🥉 - 7 dias', // Nome personalizado
+            dias: 7, // dias - se for 2 meses é 60
+            valor: 5, // se for 2,50R$ coloque 2.50
+            ativo: true // verifica se o plano tá liberado (false - para desativar)
         },
+
+        // Outros planos - adcione o quanto quiser
         {
             nome: 'Plano prata 🥈 - 15 dias',
             dias: 15,
@@ -92,4 +101,4 @@ export const ALUGUEL_CONFIG = {
             ativo: true
         },
     ]
-}
+};

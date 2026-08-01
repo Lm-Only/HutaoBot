@@ -15,6 +15,7 @@
 6. [💬 Auto Resposta Personalizada](#-auto-resposta-personalizada)
 7. [🎨 Personalizações Visuais](#-personalizações-visuais)
 8. [❌ Erros Comuns e Soluções](#-erros-comuns-e-soluções)
+9. [🌟 Sistema de Aluguel Automatico](https://github.com/Lm-Only/HutaoBot/releases/tag/v10.0.1)
 
 ---
 
@@ -165,7 +166,7 @@ hutao.setCommand({
     
     execute: async ({ reply, pushname }) => {
         reply(`Oi ${pushname}! Como vai? 😊`);
-        // Oi Lm Only! Como vai?
+        // Oi Lm Only! Como vai? 😊
     }
 });
 ```

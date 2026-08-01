@@ -153,6 +153,7 @@ cd /sdcard/HutaoBot && npm start up
   </summary>
 
  * [__Tutorial de como criar Comandos por IA__](https://m.youtube.com/watch?v=vDZJRaIWpa4)
+ * [__Tutorial de como Usar o Sistema De Aluguel__](https://github.com/Lm-Only/HutaoBot/releases/tag/v10.0.1)
  * [__Tutorial de como Editar o Auto Resposta__](https://youtu.be/VjOEOy4mrUc)
 </details>
 
@@ -180,6 +181,7 @@ cd /sdcard/HutaoBot && npm start up
 | Bem vindo           | Podes definir uma imagem de fundo
 | Auto Baixar           | Baixa vídeos do Instagram e Tiktok automaticamente
 | Anti flood com advertências          | sistema automático de advertências
+| Aluguel Automatico          | Sistema de alguel automatico
 
 ------------------
 
@@ -196,6 +198,7 @@ cd /sdcard/HutaoBot && npm start up
 | 🌷 Design novo        | Visul novo para o bot (menu, mensagens e logos)
 | 🌟 Novas brincadeiras        | Mais brincadeiras para o bot.
 | ✍️ +Editar mensagens      | Mais possibilidades de editar mensagens.
+| 💸 Aluguel Automático    | Sistema de aluguel e gerenciamento de grupo Automáticos
 
 ## Regras a seguir
 
