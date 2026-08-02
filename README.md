@@ -62,14 +62,14 @@
   </summary>
 
 
-# Hosts que já tem a Hutao 🌟
+## Hosts que já tem a Hutao 🌟
 
 <details>
   <summary>
-    <b>Saiba mais..</b>
+    <b>Saiba Mais...</b>
   </summary>
   
-> Hosts que já possuem a HutaoBot, significa que ela já vem inclusa pra instalar na propria host sem precisar upar e extrair arquivo, basta criar um servidor e escolher a opção HutaoBot e iniciar 
+> Hosts que já possuem a HutaoBot, significa que ela já vem inclusa pra instalar na própria host sem precisar upar ou extrair o arquivo. Basta criar um servidor, escolher a opção HutaoBot e iniciar 
 </details>
 
 | Lorde Host | Cebolinha Host
