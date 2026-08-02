@@ -37,7 +37,7 @@
 <details>
   <summary>
     <b>Ler mais...</b>
-  </summary>  
+  </summary> 
   
 > • **A mensalidade garante que seu bot esteja sempre atualizado.**
 >
@@ -54,6 +54,30 @@
 </summary>
 
 • **Você precisa ter um login na sua Hospedagem e um Servidor Criado**
+
+<details>
+
+  <summary>
+    <b>Ver Hosts Disponíveis...</b>
+  </summary>
+
+
+# Hosts que já tem a Hutao
+
+<details>
+  <summary>
+    <b>Saiba mais..</b>
+  </summary>
+  
+  ### Hosts que já possuem a HutaoBot, significa que ela já vem inclusa pra instalar na propria host sem precisar upar e extrair arquivo, basta criar um servidor e escolher a opção HutaoBot e iniciar
+</details>
+
+| Lorde Host |
+|------------|
+| [Grupo Suporte](https://chat.whatsapp.com/JOgMrUJCMQ3BVQnIRtfTnc) |
+| [![LordeHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/LordeHost.jpg)](https://lordehost.com.br) |
+
+</details>
 
 ## Passos simples: ✨️
 
