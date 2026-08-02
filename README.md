@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=C60404&center=falso&vCenter=falso&lines=𝑯𝒖𝒕𝒂𝒐𝑩𝒐𝒕+✿+V10.0.0✓;𝐂𝐑𝐈𝐀𝐃𝐀+𝐏𝐎𝐑+𝐋𝐌+𝐎𝐍𝐋𝐘;𝐁𝐎𝐓+𝐏𝐑𝐄𝐌𝐈𝐔𝐌;✰✰✰✰✰" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2600&color=C60404&center=falso&vCenter=falso&lines=𝑯𝒖𝒕𝒂𝒐𝑩𝒐𝒕+✿+V10.0.0✓;𝐂𝐑𝐈𝐀𝐃𝐀+𝐏𝐎𝐑+𝐋𝐌+𝐎𝐍𝐋𝐘;𝐁𝐎𝐓+𝐏𝐑𝐄𝐌𝐈𝐔𝐌;𝑴𝒂𝒊𝒔+𝒅𝒆+500+𝑼𝒔𝒖𝒂𝒓𝒊𝒐𝒔;✰✰✰✰✰" alt="Typing SVG">
 
 <h1 align="center">
 <p>
-<img src="https://i.imgur.com/R5zdleM.jpeg" alt="HUTAO-BOT V10.0.0✓" width="720">
+<img src="https://i.imgur.com/R5zdleM.jpeg" alt="HUTAO-BOT V10.0.1✓" width="720">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
 <img title="Autor" src="https://img.shields.io/badge/Autor-LmOnly-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="Versão" src="https://img.shields.io/badge/Versão-10.0.0-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Versão" src="https://img.shields.io/badge/Versão-10.0.1-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
