@@ -27,7 +27,7 @@
     },
     "homepage": "https://github.com/Lm-Only/HutaoBot#readme",
     "dependencies": {
-        "@google/genai": "^2.13.0",
+        "@google/genai": "^2.15.0",
         "@vitalets/google-translate-api": "latest",
         "acrcloud": "latest",
         "assemblyai": "^4.36.4",
