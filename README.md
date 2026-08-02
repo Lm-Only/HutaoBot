@@ -58,24 +58,24 @@
 <details>
 
   <summary>
-    <b>Ver Hosts Disponíveis...</b>
+    <b>Ver Hosts Disponíveis... 🎗</b>
   </summary>
 
 
-# Hosts que já tem a Hutao
+# Hosts que já tem a Hutao 🌟
 
 <details>
   <summary>
     <b>Saiba mais..</b>
   </summary>
   
-  ### Hosts que já possuem a HutaoBot, significa que ela já vem inclusa pra instalar na propria host sem precisar upar e extrair arquivo, basta criar um servidor e escolher a opção HutaoBot e iniciar
+> Hosts que já possuem a HutaoBot, significa que ela já vem inclusa pra instalar na propria host sem precisar upar e extrair arquivo, basta criar um servidor e escolher a opção HutaoBot e iniciar 
 </details>
 
-| Lorde Host |
-|------------|
-| [Grupo Suporte](https://chat.whatsapp.com/JOgMrUJCMQ3BVQnIRtfTnc) |
-| [![LordeHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/LordeHost.jpg)](https://lordehost.com.br) |
+| Lorde Host | Cebolinha Host
+|------------|------------
+| [Grupo Suporte](https://chat.whatsapp.com/JOgMrUJCMQ3BVQnIRtfTnc) | [Grupo Suporte](https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC)
+| [![LordeHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/LordeHost.jpg)](https://lordehost.com.br) | [![CebolinhaHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/CebolinhaHost.jpg)](https://dash.cebolinhahost.com)
 
 </details>
 
