@@ -56,7 +56,7 @@ hutao.setCommand({
                 `*Seu nível de lésbica??* 🤔\n\n` +
                 `➬ 「 @${MEMBRO.split('@')[0]} 」\n\n` +
                 `*VOCÊ É: ✰ ${PORCENTAGEM}% ✰ LÉSBICA 💋*\n\n` +
-                `• ${TEXTO_INFO}\n\n`
+                `• ${TEXTO_INFO}\n\n` +
                 `${setting.NomeDoBot}`,
                 quoted
             );
