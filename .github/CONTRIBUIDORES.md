@@ -1,0 +1,19 @@
+Nk Petrov
+Dylan Modz
+Math
+
+
+
+
+
+
+
+<!-- 
+- Coloque seu Nome abaixo do último
+- Não remova nicks dos outros
+- Não mude outros arquivos
+- Não coloque nada além do seu nick
+- Coloque um nome profissional 
+-
+- Siga isso para ser aprovado
+-->
