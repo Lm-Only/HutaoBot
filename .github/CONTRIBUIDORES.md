@@ -1,6 +1,6 @@
-Nk Petrov
-Dylan Modz
-Math
+* Nk Petrov
+* Dylan Modz
+* Math
 
 
 
