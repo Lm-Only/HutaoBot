@@ -77,6 +77,11 @@
 | [Grupo Suporte](https://chat.whatsapp.com/JOgMrUJCMQ3BVQnIRtfTnc) | [Grupo Suporte](https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC)
 | [![LordeHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/LordeHost.jpg)](https://lordehost.com.br) | [![CebolinhaHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/CebolinhaHost.jpg)](https://dash.cebolinhahost.com)
 
+| Raikken Host |
+|------------|
+| [Grupo Suporte](https://chat.whatsapp.com/BzSDYUHbjHGF6gQmJfh2C7)
+| [![RaikkenHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/RaikkenHost.jpg)](https://painel.raikken.com.br)
+
 </details>
 
 ## Passos simples: ✨️
