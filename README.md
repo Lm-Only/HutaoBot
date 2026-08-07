@@ -74,7 +74,7 @@
 
 | Lorde Host | Cebolinha Host
 |------------|------------
-| [Grupo Suporte](https://chat.whatsapp.com/JOgMrUJCMQ3BVQnIRtfTnc) | [Grupo Suporte](https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC)
+| [Grupo Suporte](https://chat.whatsapp.com/ENkfT9rjBnG2sCJRp48hhb) | [Grupo Suporte](https://chat.whatsapp.com/CCf2Pw9guan12orwGg0TqC)
 | [![LordeHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/LordeHost.jpg)](https://lordehost.com.br) | [![CebolinhaHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/CebolinhaHost.jpg)](https://dash.cebolinhahost.com)
 
 | Raikken Host |
