@@ -80,7 +80,7 @@
 | Raikken Host |
 |------------|
 | [Grupo Suporte](https://chat.whatsapp.com/BzSDYUHbjHGF6gQmJfh2C7)
-| [![RaikkenHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/RaikkenHost.jpg)](https://painel.raikken.com.br)
+| [![RaikkenHost](https://raw.githubusercontent.com/Lm-Only/dbxe-ht/refs/heads/main/RaikkenHost.jpg)](https://painel.raikken.com.br/plugins/referral-system/referral/apply/47608F7F)
 
 </details>
 
