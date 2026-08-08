@@ -183,26 +183,41 @@ console.info = function (...args) {
     }
 };
 
+import { readFile } from 'fs/promises';
+
+// Instanciado fora do escopo da função para evitar recriar na memória a cada chamada
+const IMAGE_EXTENSIONS = new Set(['jpg', 'png', 'webp', 'jpeg']);
+
 /**
- * 
  * @param {string} param caminho ou url
- * @returns {object} { image: Buffer } ou { video: Buffer, gifPlayback: boolean }
+ * @returns {Promise<{ image?: Buffer, video?: Buffer, gifPlayback: boolean }>}
  */
 export const getAnyMedia = async (param) => {
     try {
-        const buffer = param.startsWith('http') ? (await getBuffer(param)) : (await readFile(param));
-        const arrayTypes = ['jpg', 'png', 'webp'];
-        const fileTypeData = await fileTypeFromBuffer(buffer);
-        const fileType = fileTypeData?.ext;
-        const type = arrayTypes.includes(fileType) ? 'image' : 'video';
+        const buffer = param.startsWith('http')
+            ? await getBuffer(param)
+            : await readFile(param);
 
-        return { [type]: buffer, gifPlayback: Boolean(type === 'video') };
+        const fileTypeData = await fileTypeFromBuffer(buffer);
+        const ext = fileTypeData?.ext;
+
+        // Busca O(1) usando Set em vez de O(N) com Array.includes
+        const isImage = IMAGE_EXTENSIONS.has(ext);
+        const type = isImage ? 'image' : 'video';
+
+        return {
+            [type]: buffer,
+            gifPlayback: !isImage
+        };
     } catch (e) {
         if (e.code === 'ENOENT') {
-            throw `[ ERROR ] - Falha ao acessar a mídia no diretório "${e.path || 'Desconhecido'}", verifique se a mídia existe ou foi deletada por acidente. Use o comando "FotoMenu" no whatsapp juntamente com uma mídia para substituir.`;
+            throw `[ ERROR ] - Falha ao acessar a mídia em "${e.path || 'Desconhecido'}". Verifique se o arquivo existe ou use "FotoMenu".`;
+        }
+        if (e.code === 'ENOSPC') {
+            throw `[ CRITICAL ERROR ] - O disco da hospedagem está cheio (ENOSPC). Limpe os arquivos temporários do servidor!`;
         }
 
-        throw 'Falha ao obter a mídia, provavelmente não foi encontrada ou está inválida\n' + e;
+        throw `Falha ao obter a mídia (inválida ou inacessível): ${e?.message || e}`;
     }
 };
 
