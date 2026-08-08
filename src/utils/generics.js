@@ -183,8 +183,6 @@ console.info = function (...args) {
     }
 };
 
-import { readFile } from 'fs/promises';
-
 // Instanciado fora do escopo da função para evitar recriar na memória a cada chamada
 const IMAGE_EXTENSIONS = new Set(['jpg', 'png', 'webp', 'jpeg']);
 
