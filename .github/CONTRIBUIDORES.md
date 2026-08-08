@@ -7,6 +7,7 @@
 * Luffy
 * moreno dev
 * Paulo
+* Gengar
 
 
 
