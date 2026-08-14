@@ -1,31 +1,36 @@
 {
   "name": "fast-yt-search",
-  "version": "1.0.0",
-  "description": "scraper rápido e otimizado para nodeJS",
-  "main": "dist/index.js",
-  "scripts": {
-    "test": "node --test"
+  "version": "1.0.2",
+  "description": "Módulo Node.js de Alta Performance para Consulta de Metadados do YouTube",
+  "keywords": [
+    "nodejs",
+    "youtube",
+    "yt-search",
+    "fast-search",
+    "metadata"
+  ],
+  "homepage": "https://github.com/Lm-Only/fast-yt-search#readme",
+  "bugs": {
+    "url": "https://github.com/Lm-Only/fast-yt-search/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Lm-Only/fast-yt-search.git"
   },
-  "keywords": [
-    "fast",
-    "fast-yt-search",
-    "yt-search"
-  ],
-  "author": "Lm Only",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Lm-Only/fast-yt-search/issues"
+  "author": "Lm-Only",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js"
   },
-  "homepage": "https://github.com/Lm-Only/fast-yt-search#readme",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
   "dependencies": {
-    "cheerio": "^1.1.2",
-    "undici": "^7.16.0"
-  },
-  "engines": {
-    "node": ">=20.0.0"
+    "undici": "^8.10.0"
   }
 }
