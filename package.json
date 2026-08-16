@@ -5,7 +5,7 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "test": "node --watch src/test.js",
+        "test": "node src/commands/messageUpsert.js",
         "start": "ulimit -c 0 && bash start.sh",
         "clean": "bash qrcode-reset.sh",
         "help": "node ./assets/help.js"

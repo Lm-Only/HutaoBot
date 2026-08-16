@@ -12,7 +12,7 @@ hutao.setCommand({
 
     execute: async ({
         from,
-        quoted,.mysql_history
+        quoted,
         reply,
         react,
         sender,
