@@ -191,11 +191,46 @@ cd /sdcard/HutaoBot && npm start up
 
 ### ⚠️ Requisitos
 
-- **Nodejs**: Versão >= 20.0.0
-- **CPU**: acima de 50%
-- **Memória RAM**: acima de 500Mb
-- **Armazenamento**: acima de 1Gb
-- **Motivo**: A HutaoBot deixa de mão a otimização para entrar em fase de alto consumo e verificações pesadas.
+<details>
+  <summary>
+    <b>1. Versão do Node acima de 22</b>
+  </summary>
+  
+> Abaixo disso o bot pode apresentar problemas
+</details>
+
+
+<details>
+  <summary>
+    <b>2. CPU acima de 50% ou 1 core</b>
+  </summary>
+
+> Rodar abaixo disso é como tentar transformar um fusca em um ônibus...
+> Quanto mais potência melhor!
+</details>
+
+<details>
+  <summary>
+    <b>3. Memória RAM acima de 1Gb</b>
+  </summary>
+
+> O consumo do bot se baseia em cache, a memória RAM é a mais afetada
+</details>
+
+<details>
+  <summary>
+    <b>4. Armazenamento/disco acima de 1Gb</b>
+  </summary>
+
+> O bot também armazena mídias localmente, saiba que é normal um vídeo consumir uma quantidade significativa de memória.
+</details>
+
+<details>
+  <summary><b>5. Entenda o motivo...</b></summary>
+
+> **Se você seguir essas instruções, terá menos chances de enfrentar problemas, pois o bot não é algo divino, ele não
+> vai simplesmente transformar uma host de 250Mb de RAM em algo absurdo**
+</details>
 
 ------------------
 
