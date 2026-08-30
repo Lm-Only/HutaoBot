@@ -149,14 +149,18 @@ export const getFileBuffer = async (mediakey, MediaType) => {
 };
 
 /**
- * 
- * @param {string} url - url a ser verificada
- * @param {object|null} opts - parametros adicionais
- * @returns {boolean|array} com opts | sem opts
+ * Verifica e extrai URLs de um texto.
+ * @param {string} url - Texto/URL a ser verificado
+ * @param {object} [opts={}] - Opções de configuração
+ * @param {boolean} [opts.arrayValues=false] - Se deve retornar todas as URLs em um array
+ * @returns {string|string[]|null} String da URL, Array de URLs ou null se não houver
  */
 export const isUrl = (url, opts = {}) => {
+    if (!url || typeof url !== 'string') return null;
+
     const result = linkify.find(url);
-    if (!result.length) return null;
+    if (!result || !result.length) return null;
+
     if (opts.arrayValues) {
         return result.map(i => i.value);
     }
@@ -164,7 +168,7 @@ export const isUrl = (url, opts = {}) => {
 };
 
 /** Obter dispositivo através de um id de mensagem */
-export const getDevice = (id) => id.length > 21 ? 'Android 🗿' : (id.startsWith('3E') ? 'WhatsApp web 👽' : 'IOS 💸');
+export const getDevice = (id) => id.startsWith('3EB0') ? 'WhatsApp web 👽' : id.length > 21 ? 'Android 🗿' : 'IOS 💸';
 
 /** Elementos aleatórios de um Array */
 export const arrayRandom = (array) => {

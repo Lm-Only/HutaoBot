@@ -2,7 +2,7 @@
     "verificado": false,
     "autoread": false,
     "antipv1": false,
-    "buttons": false,
+    "buttons": true,
     "antipv2": false,
     "antipv3": false,
     "Desligar_Bot": false,
