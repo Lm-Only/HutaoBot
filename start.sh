@@ -1,5 +1,18 @@
 #!/usr/bin/env bash
 
+if [ ! -d "node_modules" ]; then
+    echo -e "\n❌️ Módulos não estão instalados"
+    echo "🛠 Iniciando o processo de instalação... Aguarde alguns segundos!"
+
+    if [ -f "package-lock.json" ]; then
+        echo "🧹 Removendo cache antigo"
+        rm -r package-lock.json
+    fi
+
+    npm config set allow-git all
+    npm i --no-bin-links
+fi
+
 NODE_ARGS="
 --no-warnings
 "

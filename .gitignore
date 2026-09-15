@@ -1,2 +1,8 @@
 *.bak
+
 a.sh
+script.sh
+
+node_modules
+package-lock.json
+
