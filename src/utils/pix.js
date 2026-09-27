@@ -31,10 +31,10 @@ const valorConfigurado = (valor, padrao) => {
 };
 
 export const temTokenMercadoPago = () =>
-    valorConfigurado(global.ACESS_TOKEN_PIX, TOKEN_PADRAO);
+    valorConfigurado(process.env.ACESS_TOKEN_PIX || global.ACESS_TOKEN_PIX, TOKEN_PADRAO);
 
 export const temChavePixConfigurada = () =>
-    valorConfigurado(global.CHAVE_PIX, CHAVE_PADRAO);
+    valorConfigurado(process.env.CHAVE_PIX || global.CHAVE_PIX, CHAVE_PADRAO);
 
 /**
  * Gerar um pix com o valor que você definir.
@@ -54,7 +54,7 @@ export const gerarPix = async (valor) => {
             throw new Error('Token do Mercado Pago não configurado.');
         }
 
-        const ACCESS_TOKEN = global.ACESS_TOKEN_PIX;
+        const ACCESS_TOKEN = process.env.ACESS_TOKEN_PIX || global.ACESS_TOKEN_PIX;
 
         const payment_data = {
             transaction_amount: Number(valor),
@@ -115,7 +115,7 @@ export const checarPix = async (id) => {
             };
         }
 
-        const ACCESS_TOKEN = global.ACESS_TOKEN_PIX;
+        const ACCESS_TOKEN = process.env.ACESS_TOKEN_PIX || global.ACESS_TOKEN_PIX;
         const {
             body
         } = await request(`${BASE_URL}/payments/${id}`, {
