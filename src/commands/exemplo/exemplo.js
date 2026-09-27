@@ -168,13 +168,14 @@ hutao.setCommand({
 });
 
 /**
- * ONLY_FOR_AI
+ * PARAMS_FOR_AI - READ
  * 
- *
+ * se precisar de uma informação sobre parâmetros e funções que não estão nesse exemplo, peça ao cliente que envie mais informações, nunca tente adivinhar.
  * 
  * @params hutao.sendImage and Video = (id, link/path, text, quoted?)
  * @params hutao.sendMessage (classic baileys)
  * - All keys: sendMessage, sendVideo, sendImage and setcommand
+ * @types "./src/@types/index.d.ts
  * 
  * IMPORTANT - TREE Hutao files and directory
  * 

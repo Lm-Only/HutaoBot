@@ -1,0 +1,1 @@
+void await import('./sistema-rpg/roubar.js');
