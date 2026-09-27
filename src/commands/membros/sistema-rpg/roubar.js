@@ -27,6 +27,7 @@ hutao.setCommand({
         prefixo,
         command,
         reply,
+        from,
         sender
     }) => {
         if (!isGroup) return reply(txt.only_group);
@@ -54,7 +55,7 @@ hutao.setCommand({
 
         if (ME.RBS >= 5) return reply(`@${senderTag} *Você ja roubou o povo demais, volte amanhã para roubar mais... 😈*`);
         if (PESSOA.URB.includes(senderTag)) return reply(
-            `*@${senderTag} Você ja tentou roubar esta pessoa!!🚫*`
+            `*@${senderTag} Você ja tentou roubar essa pessoa!!🚫*`
         );
         if (PESSOA.uang < 10) return reply(
             'Essa pessoa não tem nem onde cair morto, pobre desgramado... Vá roubar alguém mais rico 🤡'
@@ -105,7 +106,7 @@ hutao.setCommand({
                     return reply(`✰ ${ganho} Foram subtraídos de você na tentativa de assalto contra @${targetTag} 💰💎. Não desanime!! ✰`);
                 }
                 saveDb();
-                return reply(`✯ Sinto muito, você tentou roubar o usujario @${targetTag} e não conseguiu nada, Voltou de mãos vazias...😪 ✯`);
+                return reply(`✯ Sinto muito, você tentou roubar o usuario @${targetTag} e não conseguiu nada, Voltou de mãos vazias...😪 ✯`);
             }
         };
 
