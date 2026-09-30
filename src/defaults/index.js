@@ -273,3 +273,23 @@ export const Pct_Progress = (CHECK_USER) => {
 
     return PRCT;
 };
+
+/**
+ * ContextInfo para acessar canal apenas em grupo
+ * @param {string} channelID 
+ * @returns 
+ */
+export const getContextNewsletterGroup = (channelID) => {
+    if (channelID === 'DISABLED') {
+        return {};
+    }
+    return {
+        isForwarded: true, // Mensagem encaminhada
+        forwardingScore: 1, // Encaminhou quantas vezes?
+        forwardedNewsletterMessageInfo: {
+            newsletterJid: channelID, // ID do canal - não mexa diretamente
+            newsletterName: setting.NomeDoBot, // Nome do canal personalizado
+            serverMessageId: '', // numero da mensagem do canal
+        }
+    };
+};
