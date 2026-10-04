@@ -4,6 +4,7 @@
 ╎
 ┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
+┃╎୨୧ 🩸 {prefixo}FotoMenu
 ┃╎୨୧ 🩸 {prefixo}Channel
 ┃╎୨୧ 🩸 {prefixo}TokenPix <token|0>
 ┃╎୨୧ 🩸 {prefixo}Chavepix <chave>
