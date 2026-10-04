@@ -4,7 +4,8 @@
 ╎
 ┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
-┃╎୨୧ 🩸 {prefixo}Settokenmp <token|0>
+┃╎୨୧ 🩸 {prefixo}Channel
+┃╎୨୧ 🩸 {prefixo}TokenPix <token|0>
 ┃╎୨୧ 🩸 {prefixo}Chavepix <chave>
 ┃╎୨୧ 🩸 {prefixo}Liberar <número>
 ┃╎୨୧ 🩸 {prefixo}ConfigurarBot "_Como Configurar_"

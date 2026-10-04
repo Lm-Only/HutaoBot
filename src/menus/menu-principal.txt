@@ -24,14 +24,9 @@
 ╎
 ┏╾ׁ═╼･ﾟ♡ﾟ･｡🍸｡･ﾟ♡ﾟ･╾ᷓ═╼┓
 ┃╭╾ׁ═╼〔 • ✿ • 〕╾ׁ═╼╮
-┃╎୨୧ 🍸 {prefixo}HD _novo_
-┃╎୨୧ 🍸 {prefixo}ModoIA _novo_
-┃╎୨୧ 🍸 {prefixo}NoPrefix _novo_
-┃╎୨୧ 🍸 {prefixo}RgCmd _novo_
-┃╎୨୧ 🍸 {prefixo}DelCmd _novo_
-┃╎୨୧ 🍸 {prefixo}AntiPay _novo_
-┃╎୨୧ 🍸 {prefixo}MuteB _novo_
-┃╎୨୧ 🍸 {prefixo}Stts _novo_
+┃╎୨୧ 🍸 `{prefixo}Channel`
+┃╎୨୧ 🍸 `{prefixo}ChannelGp`
+┃╎୨୧ 🍸 `{prefixo}AntiCanal`
 ┃╎-
 ┃╎୨୧ 🍸 {prefixo}ConfigurarBot "_Como Configurar_"
 ┃╎୨୧ 🍸 {prefixo}MenuBaixar
