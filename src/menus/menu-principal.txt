@@ -24,6 +24,7 @@
 ╎
 ┏╾ׁ═╼･ﾟ♡ﾟ･｡🍸｡･ﾟ♡ﾟ･╾ᷓ═╼┓
 ┃╭╾ׁ═╼〔 • ✿ • 〕╾ׁ═╼╮
+┃╎୨୧ 🍸 `{prefixo}AutoAluguel`
 ┃╎୨୧ 🍸 `{prefixo}Channel`
 ┃╎୨୧ 🍸 `{prefixo}ChannelGp`
 ┃╎୨୧ 🍸 `{prefixo}AntiCanal`

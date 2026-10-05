@@ -5,7 +5,6 @@
 ┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
 ┃╎☆ۣۜۜ͜͡🎴 {prefixo}Ban "@"
-┃╎☆ۣۜۜ͜͡🎴 {prefixo}ChannelGp
 ┃╎☆ۣۜۜ͜͡🎴 {prefixo}MuteB
 ┃╎☆ۣۜۜ͜͡🎴 {prefixo}AddCmdAdm
 ┃╎☆ۣۜۜ͜͡🎴 {prefixo}DelCmdAdm
@@ -71,6 +70,7 @@
 ┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
 ┃╎ঔৣ͜͡💧 {prefixo}Gp a/f
+┃╎ঔৣ͜͡💧 {prefixo}ChannelGp
 ┃╎ঔৣ͜͡💧 {prefixo}Fundo_BemVindo
 ┃╎ঔৣ͜͡💧 {prefixo}Fundo_Saiu
 ┃╎ঔৣ͜͡💧 {prefixo}TempoCmd _segundos_

@@ -75,6 +75,7 @@
 ┏╾ׁ═╼°❀•°: | ⊱🌸⊰ | :°•❀°╾ᷓ═╼┓
 ┃╭━━─ ≪ •❈• ≫ ─━━╮
 ┃╎୨୧ ⚔️ {prefixo}Bangp
+┃╎୨୧ ⚔️ {prefixo}AutoAluguel
 ┃╎୨୧ ⚔️ {prefixo}AudioMenu
 ┃╎୨୧ ⚔️ {prefixo}Anti-Arqv
 ┃╎୨୧ ⚔️ {prefixo}Antidelete
